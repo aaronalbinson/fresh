@@ -48,7 +48,7 @@ export const BasicPageTemplate = ({
               )) ||
                 (element.type === "text" && (
                   <div>
-                    <AaTextElement html={element.paragraph} />
+                    <AaTextElement html={element.paragraph} righthtml={element.rparagraph} />
                   </div>
                 )) ||
                 (element.type === "gallery" && (
@@ -187,6 +187,7 @@ export const pageQuery = graphql`
           herolink
 
           paragraph
+          rparagraph
 
           galleryitem {
             src {
