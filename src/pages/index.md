@@ -1,6 +1,6 @@
 ---
 templateKey: basic-page
-title: Environ Digital
+title: Fresh Awards
 elements:
   - herodescription: Helping you make the most out of the internet
     heroimage: /img/abstract-architectural-architecture-532561.jpg
