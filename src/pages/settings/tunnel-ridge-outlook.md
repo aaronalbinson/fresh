@@ -1,9 +1,9 @@
 ---
 templateKey: settings
-title: Environ Digital
-companyaddress: © Environ Digital 2020
+title: Fresh Awards
+companyaddress: Fresh Footer information
 sociallinks:
-  facebook: 'https://www.facebook.com/environdigital'
+  facebook: ''
   instagram: ''
   twitter: ''
 ---
