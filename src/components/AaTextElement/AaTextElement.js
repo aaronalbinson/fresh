@@ -25,12 +25,14 @@ class AaTextElement extends React.Component {
                   __html: converter.makeHtml(this.props.html)
                 }}
               />
-              <div
-                className="column"
-                dangerouslySetInnerHTML={{
-                  __html: converter.makeHtml(this.props.righrhtml)
-                }}
-              />
+              {this.props.righthtml && (
+                <div
+                  className="column"
+                  dangerouslySetInnerHTML={{
+                    __html: converter.makeHtml(this.props.righthtml)
+                  }}
+                />
+              )}
             </div>
           </div>
         </div>
