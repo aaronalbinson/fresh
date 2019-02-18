@@ -7,7 +7,8 @@ elements:
     herolink: ''
     herotitle: ''
     type: hero
-  - paragraph: >-
+  - paragraph: '# Welcome to Fresh'
+    rparagraph: >-
       The industry might have fallen out of love with awards, but Fresh has
       always been unique and run for passion not profit, which is why it retains
       a loyal following nationwide. With exceptional people shaping the results,
