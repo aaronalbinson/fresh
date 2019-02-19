@@ -8,7 +8,6 @@ export const MenuTemplate = ({
   content,
   contentComponent,
   description,
-  featuredimage,
   title,
   helmet
 }) => {
@@ -25,7 +24,6 @@ MenuTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
-  featuredimage: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet)
 };
@@ -38,7 +36,6 @@ const Settings = ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
-      featuredimage={post.frontmatter.featuredimage}
       helmet={<Helmet title={`${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
     />
@@ -62,7 +59,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        featuredimage
       }
     }
   }
