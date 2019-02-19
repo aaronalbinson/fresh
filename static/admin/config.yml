@@ -94,7 +94,7 @@ collections:
             widget: "object"
             fields:
               - label: "Judge"
-                name: "judges"
+                name: "judge"
                 widget: "list"
                 fields:
                   - {label: Judge name, name: judgename, widget: "string"}

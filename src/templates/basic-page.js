@@ -93,40 +93,9 @@ export const BasicPageTemplate = ({
                     <div>
                       <Services />
                     </div>
-                  )))}
-
-              {/* {(Array.isArray(element.hero) &&
-                element.hero.map(hero => (
-                  <div className="heroimage">
-                    <AaJumbotron
-                      title={hero.herotitle}
-                      description={hero.herodescription}
-                      featuredimage={hero.heroimage}
-                      link={hero.herolink}
-                    />
-                  </div>
-                ))) ||
-                (Array.isArray(element.text) &&
-                  element.text.map(text => (
-                    <div>
-                      <AaTextElement html={text.paragraph} />
-                    </div>
                   ))) ||
-                (Array.isArray(element.gallery) &&
-                  element.gallery.map(gallery => (
-                    <div>
-                      <AaGallery images={gallery.galleryitem} />
-                    </div>
-                  ))) ||
-                (Array.isArray(element.quote) &&
-                  element.quote.map(quote => (
-                    <div>
-                      <AaBlockquote
-                        quote={quote.quotetitle}
-                        author={quote.quoteauthor}
-                      />
-                    </div>
-                  )))} */}
+                (element.type === "judges" && console.log(element.judges))}
+              }
             </div>
           ))}
       </div>
