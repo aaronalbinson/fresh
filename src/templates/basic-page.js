@@ -48,7 +48,11 @@ export const BasicPageTemplate = ({
               )) ||
                 (element.type === "text" && (
                   <div>
-                    <AaTextElement html={element.paragraph} righthtml={element.rparagraph} />
+                    <AaTextElement
+                      html={element.paragraph}
+                      righthtml={element.rparagraph}
+                      lightordark={element.lightordark}
+                    />
                   </div>
                 )) ||
                 (element.type === "gallery" && (
@@ -188,6 +192,7 @@ export const pageQuery = graphql`
 
           paragraph
           rparagraph
+          lightordark
 
           galleryitem {
             src {

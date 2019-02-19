@@ -17,22 +17,24 @@ class AaTextElement extends React.Component {
     return (
       <React.Fragment>
         <div className="TextElement">
-          <div className="container content">
-            <div className="columns">
-              <div
-                className="column"
-                dangerouslySetInnerHTML={{
-                  __html: converter.makeHtml(this.props.html)
-                }}
-              />
-              {this.props.righthtml && (
+          <div className={this.props.lightordark}>
+            <div className="container content">
+              <div className="columns">
                 <div
                   className="column"
                   dangerouslySetInnerHTML={{
-                    __html: converter.makeHtml(this.props.righthtml)
+                    __html: converter.makeHtml(this.props.html)
                   }}
                 />
-              )}
+                {this.props.righthtml && (
+                  <div
+                    className="column"
+                    dangerouslySetInnerHTML={{
+                      __html: converter.makeHtml(this.props.righthtml)
+                    }}
+                  />
+                )}
+              </div>
             </div>
           </div>
         </div>
