@@ -51,5 +51,7 @@ elements:
     paragraph: Left
     rparagraph: Right
     type: text
+  - prebuilt: services
+    type: prebuilt
 ---
 
