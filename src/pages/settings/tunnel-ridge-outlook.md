@@ -1,7 +1,7 @@
 ---
 templateKey: settings
 title: Fresh Awards
-companyaddress: Fresh Footer information
+companyaddress: ''
 sociallinks:
   facebook: 'https://www.facebook.com/The-Fresh-Awards-57682605689/'
   instagram: 'https://www.instagram.com/freshawards_/'
