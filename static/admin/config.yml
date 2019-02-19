@@ -115,4 +115,10 @@ collections:
           - {label: "Facebook URL", name: "facebook", widget: "string", required: false}
           - {label: "Twitter URL", name: "twitter", widget: "string", required: false}
           - {label: "Instagram URL", name: "instagram", widget: "string", required: false}
-          
+    - label: "Menu Type"
+      name: "menutype"
+      widget: "select"
+      default: "hamburgerside"
+      options:
+        - { label: "Hamburger side menu", value: "hamburgerside" }
+        - { label: "Header hotizontal menu", value: "headerhorizontal" }
