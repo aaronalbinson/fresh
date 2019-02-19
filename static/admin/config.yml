@@ -45,6 +45,12 @@ collections:
             fields:
               - {label: Left Paragraph, name: paragraph, widget: "markdown"}
               - {label: Right Paragraph, name: rparagraph, widget: "markdown"}
+              - label: "Light or Dark"
+                name: "lightordark"
+                widget: "select"
+                options:
+                  - { label: "Light", value: "light" }
+                  - { label: "Dark", value: "dark" }
           - label: "Gallery"
             name: "gallery"
             widget: "object"
