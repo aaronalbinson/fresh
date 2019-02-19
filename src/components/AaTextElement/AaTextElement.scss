@@ -1,4 +1,11 @@
-.TextElement {
-    margin-top: 50px;
-    margin-bottom: 50px;
+.TextElement > div {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.TextElement .dark {
+    background-color: #000000;
+    * {
+        color: #ffffff;
+    }
 }
