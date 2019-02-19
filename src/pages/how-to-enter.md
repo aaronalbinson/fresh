@@ -2,7 +2,8 @@
 templateKey: basic-page
 title: How To Enter
 elements:
-  - paragraph: '# How To Enter'
+  - lightordark: dark
+    paragraph: '# How To Enter'
     rparagraph: >-
       We’re keeping it simple, and going a little green here at Fresh, and will
       be asking for online entries only in a PDF format. If you have a physical
