@@ -6,6 +6,7 @@ import { StaticQuery, graphql } from "gatsby";
 import AaFooter from "./AaFooter/AaFooter";
 
 import Navbar from "../components/Navbar/Navbar";
+import HorizontalNavbar from "../components/HorizontalNavbar/HorizontalNavbar";
 import Services from "../components/Services/Services";
 import "./all.sass";
 
@@ -28,6 +29,7 @@ const TemplateWrapper = ({ children }) => (
                   twitter
                   instagram
                 }
+                menutype
               }
             }
           }
@@ -39,17 +41,18 @@ const TemplateWrapper = ({ children }) => (
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div>
             <Helmet title={node.frontmatter.title} />
-            <Navbar />
+            {(node.frontmatter.menutype === 'hamburgerside') && <Navbar />}
             <div id="page-wrap">
               <div className="top">
-                <Link to="/">
+                <Link className="logoLink" to="/">
                   <img
                     className="logo"
                     src={logo}
                     alt="Environ Digital"
-                    style={{ width: "70px" }}
+                    style={{ width: "90px" }}
                   />
                 </Link>
+                {(node.frontmatter.menutype === 'headerhorizontal') && <HorizontalNavbar />}
               </div>
 
               {children}
