@@ -47,5 +47,9 @@ elements:
   - paragraph: '# Left Paragraph'
     rparagraph: "Right paragraph Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. \n\nCras justo odio, dapibus ac facilisis in, egestas eget quam.\r\rInteger posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue."
     type: text
+  - lightordark: light
+    paragraph: Left
+    rparagraph: Right
+    type: text
 ---
 
