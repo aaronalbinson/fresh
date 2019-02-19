@@ -1,48 +1,16 @@
 @import '../../styles/_variables';
 
-.bm-burger-button {
-  position: fixed;
-  width: 36px;
-  height: 30px;
-  right: 36px;
-  top: 36px;
-}
-.bm-burger-bars {
-  background: $primary-color;
-}
-.bm-cross-button {
-  height: 24px;
-  width: 24px;
-}
-.bm-cross {
-  background: $secondary-color;
-}
-.bm-menu {
-  background: #1D516E;
-  padding: 2.5em 1.5em 0;
-  font-size: 1.15em;
-}
-
-.bm-menu a{
-    color: $secondary-color;
-    text-decoration: none;
-    font-size:26px;
-    margin-bottom:20px;
-    &:hover {
-        color: $secondary-color-light;
+.horizontalNavbar ul {
+  display: flex;
+  li {
+    padding-left: 50px;
+    a {
+      color: #000000;
+      font-weight: bold;
+      font-size: 20px;
+      &[aria-current="page"] {
+        color: #808285;
+      }
     }
-}
-
-.bm-morph-shape {
-  fill: #1D516E;
-}
-.bm-itemList {
-  color: $secondary-color;
-  padding: 0.8em;
-}
-.bm-item {
-  display: inline-block;
-}
-.bm-overlay {
-  background: rgba(0, 0, 0, 0.3);
+  }
 }

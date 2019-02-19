@@ -52,9 +52,9 @@ class Navbar extends React.Component {
             `}
             render={data => (
               <ul>
-                <li>
+                {/* <li>
                   <Link to="/">Home</Link>
-                </li>
+                </li> */}
                 {data.allMarkdownRemark.edges.map(({ node }) => (
                   <li key={node.id}>
                     <Link className="navbarItem" to={node.frontmatter.menupath}>
