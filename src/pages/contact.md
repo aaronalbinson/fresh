@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Contact
 elements:
   - lightordark: dark
-    paragraph: Contact
+    paragraph: '# Contact'
     rparagraph: |-
       **The Fresh Creative Awards Ltd  **\
       Rosewood House  \
