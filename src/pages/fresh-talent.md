@@ -2,7 +2,8 @@
 templateKey: basic-page
 title: Fresh Talent
 elements:
-  - paragraph: '# Fresh Talent'
+  - lightordark: dark
+    paragraph: '# Fresh Talent'
     rparagraph: >-
       Because our brand new award is an iconic symbol for all things Fresh, it’s
       only right we give an opportunity to the freshest talent in our industry.
@@ -10,7 +11,8 @@ elements:
       unique creative approach. This year, recent Illustration graduate Rebecca
       Paige has been commissioned to create the winning eggs.
     type: text
-  - paragraph: |-
+  - lightordark: light
+    paragraph: |-
       # 2019 Artist
 
       ## Rebecca Paige
