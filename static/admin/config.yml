@@ -89,6 +89,17 @@ collections:
                   - { label: "Services", value: "services" }
                   - { label: "Component", value: "cone" }
                   - { label: "ComponentTwo", value: "ctwo" }
+          - label: "Judges"
+            name: "judges"
+            widget: "object"
+            fields:
+              - label: "Judge"
+                name: "judges"
+                widget: "list"
+                fields:
+                  - {label: Judge name, name: judgename, widget: "string"}
+                  - {label: Judge company, name: judgecompany, widget: "string"}
+
 
   - name: "menu"
     label: "Menu"
