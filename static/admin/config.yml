@@ -4,8 +4,6 @@ backend:
 
 media_folder: static/img
 public_folder: /img
-editor:
-  preview: false
 
 collections:
   - name: "blog"
@@ -20,11 +18,15 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+    editor:
+      preview: false
 
   - name: "pages"
     label: "Pages"
     folder: "src/pages"
     create: true
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "basic-page"}
       - {label: "Title", name: "title", widget: "string"}
@@ -92,6 +94,8 @@ collections:
     label: "Menu"
     folder: "src/pages/menu"
     create: true
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "menu"}
       - {label: "Menu Title", name: "title", widget: "string"}
