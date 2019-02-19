@@ -8,7 +8,6 @@ export const SettingsTemplate = ({
   content,
   contentComponent,
   description,
-  featuredimage,
   title,
   helmet
 }) => {
@@ -25,7 +24,6 @@ SettingsTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
-  featuredimage: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet)
 };
@@ -60,7 +58,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        featuredimage
       }
     }
   }
