@@ -14,6 +14,8 @@ elements:
       # 2019 Artist
 
       ## Rebecca Paige
+
+      ![Rebecca Paige](/img/rebecca.png)
     rparagraph: >-
       Rebecca Paige is a London born, Cumbrian based Illustrator and printmaker
       and graduated from The University of Cumbria in 2018 with an Honours
