@@ -11,6 +11,7 @@ import Content, { HTMLContent } from "../components/Content";
 import AaBlockquote from "../components/AaBlockquote/AaBlockquote";
 import AaCustomHTML from "../components/AaCustomHTML/AaCustomHTML";
 import Services from "../components/Services/Services";
+import Judges from "../components/Judges/Judges";
 
 export const BasicPageTemplate = ({
   content,
@@ -94,8 +95,11 @@ export const BasicPageTemplate = ({
                       <Services />
                     </div>
                   ))) ||
-                (element.type === "judges" && console.log(element.judges))}
-              }
+                (element.type === "judges" && (
+                  <div>
+                    <Judges judges={element.judge} />
+                  </div>
+                ))}
             </div>
           ))}
       </div>
@@ -185,6 +189,11 @@ export const pageQuery = graphql`
           quoteauthor
 
           prebuilt
+
+          judge {
+            judgecompany
+            judgename
+          }
         }
       }
     }

@@ -111,6 +111,14 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "menu"}
       - {label: "Menu Title", name: "title", widget: "string"}
       - {label: "Menu path", name: "menupath", widget: "string"}
+      - label: "Order"
+        name: "menuorder"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 1
+        max: 100
+
   - name: "settings"
     label: "Site Settings"
     folder: "src/pages/settings"
