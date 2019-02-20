@@ -14,7 +14,10 @@ export default class HTML extends React.Component {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <meta name="google-site-verification" content="GQaSwzLl_oqjGh-OX4aFmzzX8zyAQlYm-nKFZVVH81Q" />
+          <meta
+            name="google-site-verification"
+            content="GQaSwzLl_oqjGh-OX4aFmzzX8zyAQlYm-nKFZVVH81Q"
+          />
           <link
             rel="stylesheet"
             href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
@@ -27,6 +30,7 @@ export default class HTML extends React.Component {
             integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
             crossOrigin="anonymous"
           />
+          <link rel="stylesheet" href="https://use.typekit.net/euf5vbz.css" />
           {this.props.headComponents}
         </head>
         <body {...this.props.bodyAttributes}>

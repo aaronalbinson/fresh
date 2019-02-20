@@ -30,42 +30,42 @@ class Navbar extends React.Component {
   render() {
     return (
       <nav className="horizontalNavbar">
-
-          <StaticQuery
-            query={graphql`
-              query {
-                allMarkdownRemark(
-                  filter: { frontmatter: { templateKey: { eq: "menu" } } }
-                ) {
-                  totalCount
-                  edges {
-                    node {
-                      id
-                      frontmatter {
-                        title
-                        menupath
-                      }
+        <StaticQuery
+          query={graphql`
+            query {
+              allMarkdownRemark(
+                filter: { frontmatter: { templateKey: { eq: "menu" } } }
+                sort: { fields: [frontmatter___menuorder], order: ASC }
+              ) {
+                totalCount
+                edges {
+                  node {
+                    id
+                    frontmatter {
+                      title
+                      menupath
+                      menuorder
                     }
                   }
                 }
               }
-            `}
-            render={data => (
-              <ul>
-                {/* <li>
+            }
+          `}
+          render={data => (
+            <ul>
+              {/* <li>
                   <Link to="/">Home</Link>
                 </li> */}
-                {data.allMarkdownRemark.edges.map(({ node }) => (
-                  <li key={node.id}>
-                    <Link className="navbarItem" to={node.frontmatter.menupath}>
-                      {node.frontmatter.title}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            )}
-          />
-
+              {data.allMarkdownRemark.edges.map(({ node }) => (
+                <li key={node.id}>
+                  <Link className="navbarItem" to={node.frontmatter.menupath}>
+                    {node.frontmatter.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          )}
+        />
       </nav>
     );
   }
