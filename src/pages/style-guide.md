@@ -31,6 +31,9 @@ elements:
           for people who can't see your website.
         src: /img/styleguide.png
         thumbnail: /img/styleguide.png
+      - caption: Image 2
+        src: /img/styleguide.png
+        thumbnail: /img/styleguide.png
     type: gallery
   - quoteauthor: 'Authors name, optional'
     quotetitle: >-
