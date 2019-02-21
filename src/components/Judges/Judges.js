@@ -13,9 +13,9 @@ class Judges extends React.Component {
   render() {
     return (
       <div className="judges">
-        <div className="container">
+        <div className="">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-8">
               <div className="content">
                 <div className="columns is-multiline">
                   {this.props.judges.map(judge => (
