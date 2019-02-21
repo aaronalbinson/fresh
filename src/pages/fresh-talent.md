@@ -37,11 +37,9 @@ elements:
       projects such as Highest Point Festival and bespoke prints. 
 
 
-      View Rebecca’s work at 
+      View Rebecca’s work at  
 
-
-      [rebeccapaigeart.co.uk ](http://rebeccapaigeart.co.uk)
-
+      [rebeccapaigeart.co.uk ](http://rebeccapaigeart.co.uk)  
 
       [Instagram](https://www.instagram.com/rebeccapaigeart/)
     type: text
