@@ -18,17 +18,17 @@ class AaTextElement extends React.Component {
       <React.Fragment>
         <div className="TextElement">
           <div className={this.props.lightordark}>
-            <div className="container content">
-              <div className="columns">
+            <div className="content">
+              <div className="">
                 <div
-                  className="column is-5 is-offset-1 left"
+                  className="left column is-7"
                   dangerouslySetInnerHTML={{
                     __html: converter.makeHtml(this.props.html)
                   }}
                 />
                 {this.props.righthtml && (
                   <div
-                    className="column is-5 right"
+                    className="right column is-7"
                     dangerouslySetInnerHTML={{
                       __html: converter.makeHtml(this.props.righthtml)
                     }}

@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children }) => (
                     className="logo"
                     src={logo}
                     alt="Fresh"
-                    style={{ width: "75px" }}
+                    style={{ minWidth: "75px", maxWidth: "75px" }}
                   />
                 </Link>
                 {node.frontmatter.menutype === "headerhorizontal" && (
