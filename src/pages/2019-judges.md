@@ -16,10 +16,10 @@ elements:
         judgename: David Azurdia
       - judgecompany: Taxi Studio
         judgename: Spencer Buck
-      - judgecompany: Jack Renwick Studio
-        judgename: Jack Renwick
       - judgecompany: NB Studio
         judgename: Nick Finney
+      - judgecompany: Jack Renwick Studio
+        judgename: Jack Renwick
     type: judges
 ---
 
