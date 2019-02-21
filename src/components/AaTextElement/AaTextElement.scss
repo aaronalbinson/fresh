@@ -13,3 +13,14 @@
 .TextElement img {
     max-width: 75%;
 }
+
+.TextElement .left {
+    h1 {
+        margin-bottom: 0;
+    }
+    h2, h2:not(:first-child) {
+        margin-top:0;
+        color: #808285;
+        margin-bottom: 100px;
+    }
+}
