@@ -53,3 +53,21 @@ footer.footer {
       }
   }
 }
+
+@media screen and (max-width: 900px) {
+  footer.footer {
+    justify-content: left;
+  }
+  .footerMenu ul{
+    display: block;
+    li {
+        padding-left: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  footer.footer {
+    padding: 20px;
+  }
+}
