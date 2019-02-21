@@ -16,8 +16,9 @@ body
   background-color: $primary-invert
   display: flex
   align-items: flex-end
+  flex-wrap: wrap
   .logoLink
-    flex: 1 0 auto
+    flex: 1 0 18%
   
 .content h1
   margin-bottom: 0
@@ -62,3 +63,16 @@ body
 a:hover
   color: #808285 !important
   text-decoration: none
+
+.menu-opener
+  margin-bottom: -8px
+
+.is-visible-mobile
+  display: none
+
+@media screen and (max-width: 768px)
+  .is-visible-mobile
+    display: block !important;
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6
+  font-weight: 500 !important

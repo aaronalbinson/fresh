@@ -7,10 +7,30 @@
     padding-left: 50px;
     a {
       color: #000000;
-      font-weight: bold;
+      font-weight: 500;
       font-size: 20px;
       &[aria-current="page"] {
         color: #808285;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .horizontalNavbar{
+    flex: 1 0 100%;
+    &.menuinactive {
+      display: none;
+    }
+    &.menuactive{
+      display: block;
+    }
+    ul {
+      margin-top: 50px;
+      width: 100%;
+      display: block;
+      li {
+        padding-left: 0;
       }
     }
   }
