@@ -41,18 +41,20 @@ const TemplateWrapper = ({ children }) => (
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div>
             <Helmet title={node.frontmatter.title} />
-            {(node.frontmatter.menutype === 'hamburgerside') && <Navbar />}
+            {node.frontmatter.menutype === "hamburgerside" && <Navbar />}
             <div id="page-wrap">
               <div className="top">
                 <Link className="logoLink" to="/">
                   <img
                     className="logo"
                     src={logo}
-                    alt="Environ Digital"
-                    style={{ width: "90px" }}
+                    alt="Fresh"
+                    style={{ width: "75px" }}
                   />
                 </Link>
-                {(node.frontmatter.menutype === 'headerhorizontal') && <HorizontalNavbar />}
+                {node.frontmatter.menutype === "headerhorizontal" && (
+                  <HorizontalNavbar />
+                )}
               </div>
 
               {children}

@@ -21,14 +21,14 @@ class AaTextElement extends React.Component {
             <div className="container content">
               <div className="columns">
                 <div
-                  className="column"
+                  className="column is-5 is-offset-1"
                   dangerouslySetInnerHTML={{
                     __html: converter.makeHtml(this.props.html)
                   }}
                 />
                 {this.props.righthtml && (
                   <div
-                    className="column"
+                    className="column is-5"
                     dangerouslySetInnerHTML={{
                       __html: converter.makeHtml(this.props.righthtml)
                     }}

@@ -6,9 +6,10 @@ footer.footer {
   flex-wrap: wrap;
   flex-basis: 50%;
   justify-content: space-between;
-  padding: 20px;
+  padding: 35px 40px;
   background-color: #000000;
   height: 150px;
+  align-items: center;
 }
 
 .footerAddress {
@@ -32,5 +33,16 @@ footer.footer {
         }
       }
     }
+  }
+}
+
+.footerMenu ul{
+  display: flex;
+  margin-top: -8px;
+  li {
+      padding-left: 50px;
+      a {
+        color: #ffffff;
+      }
   }
 }

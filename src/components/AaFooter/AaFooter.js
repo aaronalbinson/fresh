@@ -21,13 +21,29 @@ class AaFooter extends React.Component {
     const newAddressHTML = markdown.toHTML(this.props.address);
     return (
       <footer className="footer">
-        <div className="footerAddress">{ReactHtmlParser(newAddressHTML)}</div>
+        {/* <div className="footerAddress">{ReactHtmlParser(newAddressHTML)}</div> */}
+        <div className="footerMenu">
+          <ul>
+            <li>
+              <a href="/rules">Rules</a>
+            </li>
+            <li>
+              <a href="/accessibility">Accessibility</a>
+            </li>
+            <li>
+              <a href="/privacy-policy">Privacy Policy</a>
+            </li>
+            <li>
+              <a href="/terms-and-conditions">Terms & Conditions</a>
+            </li>
+          </ul>
+        </div>
         <div className="footerSocial">
           <ul>
             {this.props.socialLinks.facebook ? (
               <li>
                 <a href={this.props.socialLinks.facebook}>
-                  <FaFacebook size="2em" />
+                  <FaFacebook size="1em" />
                 </a>
               </li>
             ) : (
@@ -36,7 +52,7 @@ class AaFooter extends React.Component {
             {this.props.socialLinks.twitter ? (
               <li>
                 <a href={this.props.socialLinks.twitter}>
-                  <FaTwitter size="2em" />
+                  <FaTwitter size="1em" />
                 </a>
               </li>
             ) : (
@@ -45,7 +61,7 @@ class AaFooter extends React.Component {
             {this.props.socialLinks.instagram ? (
               <li>
                 <a href={this.props.socialLinks.instagram}>
-                  <FaInstagram size="2em" />
+                  <FaInstagram size="1em" />
                 </a>
               </li>
             ) : (
