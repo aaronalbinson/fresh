@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Fresh Awards
 elements:
   - herodescription: ''
-    heroimage: /img/fresh-egg.jpg
+    heroimage: /img/fresh_awards_vp1c_fc_black_bg_hr_rose.jpg
     herolink: ''
     herotitle: ''
     type: hero
