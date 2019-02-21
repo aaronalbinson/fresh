@@ -75,18 +75,18 @@ module.exports = {
         logo: "./src/img/logo.png",
 
         // WebApp Manifest Configuration
-        appName: "Environ Digital", // Inferred with your package.json
+        appName: "Fresh Awards", // Inferred with your package.json
         appDescription: null,
         developerName: null,
         developerURL: null,
         dir: "auto",
         lang: "en-US",
-        background: "#1D516E",
-        theme_color: "#1D516E",
+        background: "#000000",
+        theme_color: "#000000",
         display: "standalone",
         orientation: "any",
         start_url: "/",
-        version: "1.0",
+        version: "1.1",
 
         icons: {
           android: true,
