@@ -7,27 +7,19 @@ elements:
     type: text
   - judge:
       - judgecompany: Rose
+        judgename: Simon Elliott
+      - judgecompany: Rose
         judgename: Garry Blackburn
-      - judgecompany: Saatchi
-        judgename: Ricardo Figueira
-      - judgecompany: Frank PR
-        judgename: Graham Goodkind
       - judgecompany: The Chase
         judgename: Ben Casey
-      - judgecompany: Creative
-        judgename: Sarah Boris
-      - judgecompany: Rose
-        judgename: Simon Elliott
-      - judgecompany: Music Agency
-        judgename: Edward Johnson
-      - judgecompany: Vandal London
-        judgename: Will Francis
-      - judgecompany: BMB Agency
-        judgename: Bil Bungay
+      - judgecompany: Magpie Studio
+        judgename: David Azurdia
+      - judgecompany: Taxi Studio
+        judgename: Spencer Buck
+      - judgecompany: Jack Renwick Studio
+        judgename: Jack Renwick
       - judgecompany: NB Studio
         judgename: Nick Finney
-      - judgecompany: Magpie Studio
-        judgename: Ben Christie
     type: judges
 ---
 
