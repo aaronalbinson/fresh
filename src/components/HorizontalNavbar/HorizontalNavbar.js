@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
+import TransitionLink from "gatsby-plugin-transition-link";
+import AniLink from "gatsby-plugin-transition-link/AniLink";
 import { StaticQuery, graphql } from "gatsby";
 
 require("./HorizontalNavbar.scss");
@@ -88,12 +90,13 @@ class Navbar extends React.Component {
                 </li> */}
                   {data.allMarkdownRemark.edges.map(({ node }) => (
                     <li key={node.id}>
-                      <Link
+                      <AniLink
+                        fade
                         className="navbarItem"
                         to={node.frontmatter.menupath}
                       >
                         {node.frontmatter.title}
-                      </Link>
+                      </AniLink>
                     </li>
                   ))}
                 </ul>

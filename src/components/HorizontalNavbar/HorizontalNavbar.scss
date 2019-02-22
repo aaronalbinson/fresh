@@ -4,11 +4,14 @@
   display: flex;
   margin-bottom: -8px;
   li {
-    padding-left: 50px;
+    padding-left: 35px;
+    &:first-child {
+      padding-left: 0;
+    }
     a {
       color: #000000;
       font-weight: 500;
-      font-size: 20px;
+      font-size: 16px;
       &[aria-current="page"] {
         color: #808285;
       }

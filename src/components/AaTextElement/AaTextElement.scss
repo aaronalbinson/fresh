@@ -1,6 +1,14 @@
 .TextElement > div {
-    padding-top: 120px;
+    padding-top: 60px;
     padding-bottom: 120px;
+
+    p {
+        font-size: 16px;
+    }
+
+    &:first-child {
+        padding-bottom: 60px;
+    }
 }
 
 .TextElement .dark {
@@ -10,18 +18,27 @@
     }
 }
 
+.TextElement .light {
+    background-color: #ffffff;
+    * {
+        color: #000000;
+    }
+}
+
 .TextElement img {
     max-width: 75%;
 }
 
 .TextElement .left {
+    margin-bottom: 25px;
     h1 {
         margin-bottom: 0;
+        font-size: 1.8em
     }
     h2, h2:not(:first-child) {
-        margin-top:0;
+        margin-top: 0;
+        margin-bottom: 0;
         color: #808285;
-        margin-bottom: 100px;
     }
 }
 
@@ -29,4 +46,10 @@
     a {
         color: #808285;
     }
+}
+
+.TextElement .content {
+    margin: 0;
+    padding-left: 200px;
+    max-width: 1200px;
 }

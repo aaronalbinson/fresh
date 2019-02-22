@@ -9,8 +9,7 @@ footer.footer {
   padding: 35px 40px;
   background-color: #000000;
   height: 150px;
-  align-items: center;
-  justify-content: center;
+  padding-left: 212px;
 }
 
 .footerAddress {
@@ -22,13 +21,11 @@ footer.footer {
 }
 
 .footerSocial {
-  display: flex;
-  position: absolute;
-  right: 40px;
+  margin-bottom: -10px;
   ul {
     display: flex;
     li {
-      margin-left: 20px;
+      margin-left: 10px;
       a {
         color: $secondary;
         &:hover {
@@ -36,6 +33,15 @@ footer.footer {
         }
       }
     }
+  }
+}
+
+.top .footerSocial {
+  position: absolute;
+  right: 60px;
+  bottom: 40px;
+  a {
+    color: #000000;
   }
 }
 
@@ -47,6 +53,9 @@ footer.footer {
   li {
       padding-left: 25px;
       padding-right: 25px;
+      &:first-child {
+        padding-left: 0;
+      }
       a {
         color: #ffffff;
         font-size: 16px;
@@ -54,7 +63,7 @@ footer.footer {
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 768px) {
   footer.footer {
     justify-content: left;
   }

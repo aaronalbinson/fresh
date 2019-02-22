@@ -1,5 +1,6 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
+import AniLink from "gatsby-plugin-transition-link/AniLink";
 import ReactHtmlParser, {
   processNodes,
   convertNodeToElement,
@@ -25,20 +26,20 @@ class AaFooter extends React.Component {
         <div className="footerMenu">
           <ul>
             <li>
-              <a href="/rules">Rules</a>
+              <AniLink to="//rules">Rules</AniLink>
             </li>
             <li>
-              <a href="/accessibility">Accessibility</a>
+              <AniLink to="//accessibility">Accessibility</AniLink>
             </li>
             <li>
-              <a href="/privacy-policy">Privacy Policy</a>
+              <AniLink to="//privacy-policy">Privacy Policy</AniLink>
             </li>
             <li>
-              <a href="/terms-and-conditions">Terms & Conditions</a>
+              <AniLink to="//terms-and-conditions">Terms & Conditions</AniLink>
             </li>
           </ul>
         </div>
-        <div className="footerSocial">
+        {/* <div className="footerSocial">
           <ul>
             {this.props.socialLinks.facebook ? (
               <li>
@@ -68,7 +69,7 @@ class AaFooter extends React.Component {
               ""
             )}
           </ul>
-        </div>
+        </div> */}
         {/* <div className="footerSocial">{this.props.socialLinks}</div> */}
       </footer>
     );

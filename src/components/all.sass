@@ -10,18 +10,24 @@ $gray: #fafafa;
 body
   font-family:"effra" !important
   font-size: 22px
+  background-color: $primary
+  #outer-container
+    margin-top: 170px
 
 .top
-  padding: 35px 40px
+  padding: 40px 60px
   background-color: $primary-invert
   display: flex
   align-items: flex-end
   flex-wrap: wrap
+  width: 100vw
+  height: 170px
   .logoLink
-    flex: 1 0 9%
+    flex: 0 0 150px
   
 .content h1
   margin-bottom: 0
+  font-size: 1.8em
 
 .content .taglist
   list-style: none
@@ -72,9 +78,12 @@ a:hover
 
 @media screen and (max-width: 768px)
   .is-visible-mobile
-    display: block !important;
+    display: block !important
   .top
     padding: 20px
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6
   font-weight: 500 !important
+
+.gatsby-plugin-transition-link-portal
+  position: absolute !important
