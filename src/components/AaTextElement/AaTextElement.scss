@@ -18,6 +18,13 @@
     }
 }
 
+.TextElement .light {
+    background-color: #ffffff;
+    * {
+        color: #000000;
+    }
+}
+
 .TextElement img {
     max-width: 75%;
 }
