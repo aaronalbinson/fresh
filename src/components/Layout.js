@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import logo from "../img/logo.svg";
 import { Link } from "gatsby";
+import TransitionLink from "gatsby-plugin-transition-link";
 import AniLink from "gatsby-plugin-transition-link/AniLink";
 import { StaticQuery, graphql } from "gatsby";
 import AaFooter from "./AaFooter/AaFooter";
