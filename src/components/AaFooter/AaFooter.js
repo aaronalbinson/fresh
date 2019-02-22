@@ -38,7 +38,7 @@ class AaFooter extends React.Component {
             </li>
           </ul>
         </div>
-        <div className="footerSocial">
+        {/* <div className="footerSocial">
           <ul>
             {this.props.socialLinks.facebook ? (
               <li>
@@ -68,7 +68,7 @@ class AaFooter extends React.Component {
               ""
             )}
           </ul>
-        </div>
+        </div> */}
         {/* <div className="footerSocial">{this.props.socialLinks}</div> */}
       </footer>
     );

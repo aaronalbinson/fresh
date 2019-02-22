@@ -4,6 +4,7 @@ import logo from "../img/logo.svg";
 import { Link } from "gatsby";
 import { StaticQuery, graphql } from "gatsby";
 import AaFooter from "./AaFooter/AaFooter";
+import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 import Navbar from "../components/Navbar/Navbar";
 import HorizontalNavbar from "../components/HorizontalNavbar/HorizontalNavbar";
@@ -55,6 +56,37 @@ const TemplateWrapper = ({ children }) => (
                 {node.frontmatter.menutype === "headerhorizontal" && (
                   <HorizontalNavbar />
                 )}
+                <div className="footerSocial">
+                  <ul>
+                    {node.frontmatter.sociallinks.facebook ? (
+                      <li>
+                        <a href={node.frontmatter.sociallinks.facebook}>
+                          <FaFacebook size="1em" />
+                        </a>
+                      </li>
+                    ) : (
+                      ""
+                    )}
+                    {node.frontmatter.sociallinks.twitter ? (
+                      <li>
+                        <a href={node.frontmatter.sociallinks.twitter}>
+                          <FaTwitter size="1em" />
+                        </a>
+                      </li>
+                    ) : (
+                      ""
+                    )}
+                    {node.frontmatter.sociallinks.instagram ? (
+                      <li>
+                        <a href={node.frontmatter.sociallinks.instagram}>
+                          <FaInstagram size="1em" />
+                        </a>
+                      </li>
+                    ) : (
+                      ""
+                    )}
+                  </ul>
+                </div>
               </div>
 
               {children}
