@@ -12,14 +12,14 @@ elements:
         judgename: Garry Blackburn
       - judgecompany: The Chase
         judgename: Ben Casey
+      - judgecompany: Jack Renwick Studio
+        judgename: Jack Renwick
       - judgecompany: Magpie Studio
         judgename: David Azurdia
       - judgecompany: Taxi Studio
         judgename: Spencer Buck
       - judgecompany: NB Studio
         judgename: Nick Finney
-      - judgecompany: Jack Renwick Studio
-        judgename: Jack Renwick
     type: judges
 ---
 
