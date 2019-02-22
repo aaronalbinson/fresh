@@ -45,6 +45,11 @@ footer.footer {
   }
 }
 
+.footerMenu {
+  display: flex;
+  align-items: center;
+}
+
 .footerMenu ul{
   display: flex;
   margin-top: -8px;
