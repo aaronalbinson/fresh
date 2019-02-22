@@ -13,21 +13,17 @@ class Judges extends React.Component {
   render() {
     return (
       <div className="judges">
-        <div className="">
-          <div className="columns">
-            <div className="column">
-              <div className="content">
-                <div className="columns is-multiline">
-                  {this.props.judges.map(judge => (
-                    <div className="judge">
-                      <div class="content">
-                        <h3>{judge.judgename}</h3>
-                        <h4>{judge.judgecompany}</h4>
-                      </div>
-                    </div>
-                  ))}
+        <div className="column">
+          <div className="content">
+            <div className="columns is-multiline">
+              {this.props.judges.map(judge => (
+                <div className="judge">
+                  <div class="content">
+                    <h3>{judge.judgename}</h3>
+                    <h4>{judge.judgecompany}</h4>
+                  </div>
                 </div>
-              </div>
+              ))}
             </div>
           </div>
         </div>

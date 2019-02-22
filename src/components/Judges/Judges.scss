@@ -3,6 +3,7 @@
     background-color: #000000;
     color: #ffffff;
     padding-left: 212px;
+    max-width: 650px;
     h3 {
         color: #ffffff;
     }
@@ -10,5 +11,9 @@
         color: #808285;
         font-size: 1.5em;
         margin-top: -15px;
+    }
+    .judge {
+        flex-basis: 50%;
+        max-width: 260px;
     }
 }
