@@ -1,10 +1,10 @@
 import React from "react";
 import Helmet from "react-helmet";
 import logo from "../img/logo.svg";
+import PageTransition from "gatsby-plugin-page-transitions";
 import { Link } from "gatsby";
 import { StaticQuery, graphql } from "gatsby";
 import AaFooter from "./AaFooter/AaFooter";
-
 import Navbar from "../components/Navbar/Navbar";
 import HorizontalNavbar from "../components/HorizontalNavbar/HorizontalNavbar";
 import Services from "../components/Services/Services";
@@ -56,8 +56,7 @@ const TemplateWrapper = ({ children }) => (
                   <HorizontalNavbar />
                 )}
               </div>
-
-              {children}
+              <PageTransition>{children}</PageTransition>
             </div>
 
             <AaFooter
