@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import logo from "../img/logo.svg";
 import { Link } from "gatsby";
+import AniLink from "gatsby-plugin-transition-link/AniLink";
 import { StaticQuery, graphql } from "gatsby";
 import AaFooter from "./AaFooter/AaFooter";
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
@@ -46,14 +47,14 @@ const TemplateWrapper = ({ children }) => (
             <div id="page-wrap">
               <TransitionPortal>
                 <div className="top">
-                  <Link className="logoLink" to="/">
+                  <AniLink className="logoLink" to="/">
                     <img
                       className="logo"
                       src={logo}
                       alt="Fresh"
                       style={{ minWidth: "75px", maxWidth: "75px" }}
                     />
-                  </Link>
+                  </AniLink>
                   {node.frontmatter.menutype === "headerhorizontal" && (
                     <HorizontalNavbar />
                   )}
