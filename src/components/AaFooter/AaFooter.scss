@@ -4,12 +4,13 @@ footer.footer {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  flex-basis: 50%;
   justify-content: space-between;
   padding: 35px 40px;
   background-color: #000000;
   height: 150px;
   padding-left: 212px;
+  flex-grow: 0;
+  flex-shrink: 0;
 }
 
 .footerAddress {
