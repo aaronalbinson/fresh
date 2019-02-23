@@ -1,0 +1,143 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+    editor:
+      preview: false
+
+  - name: "pages"
+    label: "Pages"
+    folder: "src/pages"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "basic-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Website elements"
+        name: "elements"
+        widget: "list"
+        required: false
+        types:
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - {label: Image, name: heroimage, widget: "image"}
+              - {label: Title, name: herotitle, widget: "string"}
+              - {label: Description, name: herodescription, widget: "string"}
+              - {label: Link, name: herolink, widget: "string", required: false}
+          - label: "Text"
+            name: "text"
+            widget: "object"
+            fields:
+              - {label: Left Paragraph, name: paragraph, widget: "markdown"}
+              - {label: Right Paragraph, name: rparagraph, widget: "markdown"}
+              - label: "Light or Dark"
+                name: "lightordark"
+                widget: "select"
+                default: "light"
+                options:
+                  - { label: "Light", value: "light" }
+                  - { label: "Dark", value: "dark" }
+          - label: "Gallery"
+            name: "gallery"
+            widget: "object"
+            fields:
+              - label: "Gallery item"
+                name: "galleryitem"
+                widget: "list"
+                fields:
+                  - {label: Image, name: src, widget: "image"}
+                  - {label: Thumbnail, name: thumbnail, widget: "image"}
+                  - {label: Title, name: caption, widget: "string"}
+          - label: "Quote"
+            name: "quote"
+            widget: "object"
+            fields:
+              - {label: Quote, name: quotetitle, widget: "string"}
+              - {label: Quote author, name: quoteauthor, widget: "string"}
+          - label: "Custom HTML"
+            name: "customhtml"
+            widget: "object"
+            fields:
+              - {label: Custom HTML, name: customhtml, widget: "string"}
+          - label: "Prebuild Components"
+            name: "prebuilt"
+            widget: "object"
+            fields:
+              - label: "Component"
+                name: "prebuilt"
+                widget: "select"
+                options:
+                  - { label: "Services", value: "services" }
+                  - { label: "Component", value: "cone" }
+                  - { label: "ComponentTwo", value: "ctwo" }
+          - label: "Judges"
+            name: "judges"
+            widget: "object"
+            fields:
+              - label: "Judge"
+                name: "judge"
+                widget: "list"
+                fields:
+                  - {label: Judge name, name: judgename, widget: "string"}
+                  - {label: Judge company, name: judgecompany, widget: "string"}
+
+
+  - name: "menu"
+    label: "Menu"
+    folder: "src/pages/menu"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "menu"}
+      - {label: "Menu Title", name: "title", widget: "string"}
+      - {label: "Menu path", name: "menupath", widget: "string"}
+      - label: "Order"
+        name: "menuorder"
+        widget: "number"
+        default: 1
+        valueType: "int"
+        min: 1
+        max: 100
+
+  - name: "settings"
+    label: "Site Settings"
+    folder: "src/pages/settings"
+    create: false
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "settings"}
+      - {label: "Website name", name: "title", widget: "string", required: true}
+      - {label: "Company address", name: "companyaddress", widget: "markdown", required: false}
+      - label: "Social Links"
+        name: "sociallinks"
+        widget: "object"
+        fields:
+          - {label: "Facebook URL", name: "facebook", widget: "string", required: false}
+          - {label: "Twitter URL", name: "twitter", widget: "string", required: false}
+          - {label: "Instagram URL", name: "instagram", widget: "string", required: false}
+      - label: "Menu Type"
+        name: "menutype"
+        widget: "select"
+        default: "hamburgerside"
+        options:
+          - { label: "Hamburger side menu", value: "hamburgerside" }
+          - { label: "Header hotizontal menu", value: "headerhorizontal" }

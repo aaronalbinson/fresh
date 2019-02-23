@@ -43,63 +43,60 @@ const TemplateWrapper = ({ children }) => (
       <div id="outer-container">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div>
-            <Helmet title={node.frontmatter.title} />
-            {node.frontmatter.menutype === "hamburgerside" && <Navbar />}
-            <div id="page-wrap">
-              <TransitionPortal>
-                <div className="top">
-                  <AniLink className="logoLink" to="/">
-                    <img
-                      className="logo"
-                      src={logo}
-                      alt="Fresh"
-                      style={{ minWidth: "75px", maxWidth: "75px" }}
-                    />
-                  </AniLink>
-                  {node.frontmatter.menutype === "headerhorizontal" && (
-                    <HorizontalNavbar />
-                  )}
-                  <div className="footerSocial">
-                    <ul>
-                      {node.frontmatter.sociallinks.facebook ? (
-                        <li>
-                          <a href={node.frontmatter.sociallinks.facebook}>
-                            <FaFacebook size="1em" />
-                          </a>
-                        </li>
-                      ) : (
-                        ""
-                      )}
-                      {node.frontmatter.sociallinks.twitter ? (
-                        <li>
-                          <a href={node.frontmatter.sociallinks.twitter}>
-                            <FaTwitter size="1em" />
-                          </a>
-                        </li>
-                      ) : (
-                        ""
-                      )}
-                      {node.frontmatter.sociallinks.instagram ? (
-                        <li>
-                          <a href={node.frontmatter.sociallinks.instagram}>
-                            <FaInstagram size="1em" />
-                          </a>
-                        </li>
-                      ) : (
-                        ""
-                      )}
-                    </ul>
+            <div>
+              <Helmet title={node.frontmatter.title} />
+              {node.frontmatter.menutype === "hamburgerside" && <Navbar />}
+              <div id="page-wrap">
+                <TransitionPortal>
+                  <div className="top">
+                    <AniLink className="logoLink" to="/">
+                      <img
+                        className="logo"
+                        src={logo}
+                        alt="Fresh"
+                        style={{ minWidth: "75px", maxWidth: "75px" }}
+                      />
+                    </AniLink>
+                    {node.frontmatter.menutype === "headerhorizontal" && (
+                      <HorizontalNavbar />
+                    )}
+                    <div className="footerSocial">
+                      <ul>
+                        {node.frontmatter.sociallinks.facebook ? (
+                          <li>
+                            <a href={node.frontmatter.sociallinks.facebook}>
+                              <FaFacebook size="1em" />
+                            </a>
+                          </li>
+                        ) : (
+                          ""
+                        )}
+                        {node.frontmatter.sociallinks.twitter ? (
+                          <li>
+                            <a href={node.frontmatter.sociallinks.twitter}>
+                              <FaTwitter size="1em" />
+                            </a>
+                          </li>
+                        ) : (
+                          ""
+                        )}
+                        {node.frontmatter.sociallinks.instagram ? (
+                          <li>
+                            <a href={node.frontmatter.sociallinks.instagram}>
+                              <FaInstagram size="1em" />
+                            </a>
+                          </li>
+                        ) : (
+                          ""
+                        )}
+                      </ul>
+                    </div>
                   </div>
-                </div>
-              </TransitionPortal>
+                </TransitionPortal>
 
-              {children}
+                {children}
+              </div>
             </div>
-
-            <AaFooter
-              socialLinks={node.frontmatter.sociallinks}
-              address={node.frontmatter.companyaddress}
-            />
           </div>
         ))}
       </div>

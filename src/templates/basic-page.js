@@ -6,6 +6,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import AaJumbotron from "../components/AaJumbotron/AaJumbotron";
 import AaGallery from "../components/AaGallery/AaGallery";
+import AaFooter from "../components/AaFooter/AaFooter";
 import AaTextElement from "../components/AaTextElement/AaTextElement";
 import Content, { HTMLContent } from "../components/Content";
 import AaBlockquote from "../components/AaBlockquote/AaBlockquote";
@@ -28,7 +29,7 @@ export const BasicPageTemplate = ({
   var caption;
 
   return (
-    <div>
+    <div className={title}>
       <div className="elements">
         {PostContent ? "" : ""}
         {elements &&
@@ -103,6 +104,7 @@ export const BasicPageTemplate = ({
             </div>
           ))}
       </div>
+      <AaFooter />
     </div>
   );
 };
