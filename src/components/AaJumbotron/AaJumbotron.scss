@@ -12,7 +12,11 @@
     height: 100%;
     color: #FFFFFF;
     align-items: center;
-    display:flex;
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    height: 80vh;
+    overflow: hidden;
 }
 
 .aaJumbotron h1 {
@@ -33,4 +37,11 @@
         background-color: $primary;
         background-image: none;
     }
+}
+
+.jumbotron-image {
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      width: auto;
 }
