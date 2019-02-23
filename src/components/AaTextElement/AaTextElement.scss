@@ -17,6 +17,9 @@
     .content h2:not(:first-child) {
         margin-top: 50px;
     }
+    .content .left h2:not(:first-child) {
+        margin-top: 0;
+    } 
 }
 
 .TextElement .dark {
