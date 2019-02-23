@@ -63,8 +63,11 @@ footer.footer {
         padding-left: 0;
       }
       a {
-        color: #ffffff;
-        font-size: 16px;
+        color: #808285;
+        font-size: 12px;
+        &:hover {
+          color: #ffffff !important;
+        }
       }
   }
 }
