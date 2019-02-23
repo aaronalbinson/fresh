@@ -157,7 +157,7 @@ export const pageQuery = graphql`
           herodescription
           heroimage {
             childImageSharp {
-              fluid(maxWidth: 1000, quality: 70) {
+              fluid(maxWidth: 2400, quality: 100) {
                 ...GatsbyImageSharpFluid
               }
             }
