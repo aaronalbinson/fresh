@@ -29,7 +29,7 @@ export const BasicPageTemplate = ({
   var caption;
 
   return (
-    <div className={title}>
+    <div className={title + " page"}>
       <div className="elements">
         {PostContent ? "" : ""}
         {elements &&
