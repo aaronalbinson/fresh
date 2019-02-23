@@ -9,6 +9,14 @@
     &:first-child {
         padding-bottom: 60px;
     }
+
+    h2 {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .content h2:not(:first-child) {
+        margin-top: 50px;
+    }
 }
 
 .TextElement .dark {
