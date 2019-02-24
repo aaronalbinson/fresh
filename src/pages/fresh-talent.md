@@ -12,32 +12,29 @@ elements:
       it’s only right we give an opportunity to the freshest talent in our
       industry. Each year, the egg will act as a blank canvas for a graduate to
       provide a unique creative approach. This year, recent Illustration
-      graduate Rebecca Paige has been commissioned to create the Fresh Awards
-      2019 winning eggs. 
+      graduate Rebecca Paige has been commissioned to create the winning eggs. 
 
 
       Rebecca Paige is a London born, Cumbrian based Illustrator and printmaker
-      who graduated from The University of Cumbria in 2018 with an Honours
+      and graduated from The University of Cumbria in 2018 with an Honours
       degree in Illustration. Her work explores the primitive yet equally
       intricate lives of ancient civilisations. 
 
 
-      As a printmaker who usually works with traditional linocut techniques,
-      Rebecca enjoys capturing the beauty that exists in the ruins of ancient
-      societies – often taking complex and otherwise overlooked accounts of
-      history and recreating them in an energetic, and engaging manner. The
-      intentionally rough, unrefined and wild aesthetic to her work are an
-      embrace of all that comes with working with the ancient.
+      As a printmaker who usually works with linocut, Rebecca enjoys capturing
+      the beauty that exists in the ruins of ancient societies – often taking
+      complex and otherwise overlooked accounts of history and recreating them
+      in an energetic, and engaging manner. 
 
 
       Since graduating last year, her work has been exhibited at globally
-      renowned New Designers and she has worked on a number of commissions, as
-      well as regularly producing her own linocut prints.
+      renowned New Designers and she has worked on a number of commissions, most
+      recently Highest Point Festival.
 
 
-      View Rebecca’s work at
-      [rebeccapaigeart.co.uk](http://rebeccapaigeart.co.uk) and support one of
-      our industry's freshest talents.
+      View Rebecca’s work at <a
+      href="http://rebeccapaigeart.co.uk">rebeccapaigeart.co.uk</a> and support
+      one of our industry's freshest talents.
     type: text
 ---
 
