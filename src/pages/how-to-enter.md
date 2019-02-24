@@ -26,12 +26,12 @@ elements:
       pixels.
 
 
-      – A separate, A4 single page PDF of the project description outlining what
-      the brief was, your approach and what the solution was should also be
-      attached. This should not exceed 150 words.
+      – A separate, A4 single page editable PDF of the project description
+      outlining what the brief was, your approach and what the solution was
+      should also be attached. This should not exceed 150 words.
 
 
-      – We do not accept Jpegs,Tifs, MBP, Mov files or Mp4 files. If the project
+      – We only expect to receive PDFs and no other file types. If the project
       has a video, please submit a link at the end of the project description
       PDF. 
 
@@ -39,13 +39,13 @@ elements:
       – All attached PDFs should be titled as follows:
 
 
-      FRESHENTRY_CATEGORYNAME_PROJECTTITLE_CLIENT
+      FRESHENTRY_CATEGORYNAME_PROJECTTITLE_CLIENT_AGENCYNAME
 
 
       – The body of your email should read:
 
 
-      Fresh Entry | Category Name | Project Title | Client | Your Company |
+      Fresh Entry | Category Name | Project Title | Client | Agency Name |
       Credits
 
 
