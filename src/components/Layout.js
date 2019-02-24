@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children }) => (
               <div id="page-wrap">
                 <TransitionPortal>
                   <div className="top">
-                    <AniLink className="logoLink" to="/">
+                    <AniLink fade className="logoLink" to="/">
                       <img
                         className="logo"
                         src={logo}
