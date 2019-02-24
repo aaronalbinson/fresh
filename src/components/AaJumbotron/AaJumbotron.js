@@ -20,8 +20,7 @@ class AaJumbotron extends React.Component {
       height: "80vh"
     };
     return (
-      <Jumbotron className="aaJumbotron">
-        {/* <Jumbotron className="aaJumbotron" style={jumbotronstyles}> */}
+      <Jumbotron className="aaJumbotron" style={jumbotronstyles}>
         <div className="jumbotron-container">
           <img className="jumbotron-image" src={this.props.featuredimage} />
           <div className="container">
