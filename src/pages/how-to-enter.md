@@ -53,11 +53,15 @@ elements:
       delay of up to a couple of days to respond.
 
 
-      – All entries need to be submitted at the very latest by Friday 8 March
+      – All entries need to be submitted at the very latest by Friday 29 March
       2019 and should be emailed to:
 
 
       <mailto:entries@freshawards.co.uk>
+
+
+      – Judging will take place on Thursday 4 April and to keep things fresh, we
+      will be announcing the winners on the same day, live from our website.
 
 
       – Each submission is £100+vat and if you pay for five entries, you get the
