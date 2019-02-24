@@ -28,7 +28,7 @@ elements:
 
       – A separate, A4 single page PDF of the project description outlining what
       the brief was, your approach and what the solution was should also be
-      attached.This should not exceed  150 words.
+      attached. This should not exceed 150 words.
 
 
       – We do not accept Jpegs,Tifs, MBP, Mov files or Mp4 files. If the project
