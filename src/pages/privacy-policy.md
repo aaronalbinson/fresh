@@ -28,16 +28,16 @@ elements:
       We may collect the following information:
 
 
-      name and job title
+      Name and job title
 
 
-      contact information including email address
+      Contact information including email address
 
 
-      demographic information such as postcode, preferences and interests
+      Demographic information such as postcode, preferences and interests
 
 
-      other information relevant to customer surveys and/or offers
+      Other information relevant to customer surveys and/or offers
 
 
       What we do with the information we gather
@@ -103,8 +103,6 @@ elements:
       full advantage of the website.
 
 
-
-
       ## Links to other websites
 
 
@@ -117,8 +115,6 @@ elements:
       statement applicable to the website in question.
 
 
-
-
       ## Controlling your personal information
 
 
@@ -126,12 +122,12 @@ elements:
       information in the following ways:
 
 
-      whenever you are asked to fill in a form on the website, look for the box
+      Whenever you are asked to fill in a form on the website, look for the box
       that you can click to indicate that you do not want the information to be
-      used by anybody for direct marketing purposes
+      used by anybody for direct marketing purposes.
 
 
-      if you have previously agreed to us using your personal information for
+      If you have previously agreed to us using your personal information for
       direct marketing purposes, you may change your mind at any time by
       emailing us at paula@freshawards.co.uk
 
