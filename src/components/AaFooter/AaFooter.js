@@ -18,16 +18,24 @@ class AaFooter extends React.Component {
         <div className="footerMenu">
           <ul>
             <li>
-              <AniLink to="/rules">Rules</AniLink>
+              <AniLink fade to="/rules">
+                Rules
+              </AniLink>
             </li>
             <li>
-              <AniLink to="/accessibility">Accessibility</AniLink>
+              <AniLink fade to="/accessibility">
+                Accessibility
+              </AniLink>
             </li>
             <li>
-              <AniLink to="/privacy-policy">Privacy Policy</AniLink>
+              <AniLink fade to="/privacy-policy">
+                Privacy Policy
+              </AniLink>
             </li>
             <li>
-              <AniLink to="/terms-and-conditions">Terms & Conditions</AniLink>
+              <AniLink fade to="/terms-and-conditions">
+                Terms & Conditions
+              </AniLink>
             </li>
           </ul>
         </div>
