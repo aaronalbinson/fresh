@@ -18,17 +18,21 @@ elements:
       Rebecca Paige is a London born, Cumbrian based Illustrator and printmaker
       and graduated from The University of Cumbria in 2018 with an Honours
       degree in Illustration. Her work explores the primitive yet equally
-      intricate lives of Ancient Civilisations. 
+      intricate lives of ancient civilisations. 
 
 
-      As a printmaker, she enjoys capturing the beauty that exists in the ruins
-      of ancient societies – often taking complex and otherwise overlooked
-      accounts of history and recreating them in an energetic, and engaging
-      manner. 
+      As a printmaker who usually works with linocut, she enjoys capturing the
+      beauty that exists in the ruins of ancient societies – often taking
+      complex and otherwise overlooked accounts of history and recreating them
+      in an energetic, and engaging manner. Since graduating last year,
+      Rebecca's work has been exhibited at globally renowned New Designers and
+      she has worked on a number of commissions, most recently Highest Point
+      Festival.
 
 
       View Rebecca’s work at
-      [rebeccapaigeart.co.uk](http://rebeccapaigeart.co.uk)
+      [rebeccapaigeart.co.uk](http://rebeccapaigeart.co.uk) and support one of
+      our industry's freshest talents.
     type: text
 ---
 
