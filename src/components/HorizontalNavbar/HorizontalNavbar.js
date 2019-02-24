@@ -102,7 +102,7 @@ class Navbar extends React.Component {
                       <ul>
                         {this.props.facebook ? (
                           <li>
-                            <a href={this.props.facebook}>
+                            <a target="_blank" href={this.props.facebook}>
                               <FaFacebook size="1em" />
                             </a>
                           </li>
@@ -111,7 +111,7 @@ class Navbar extends React.Component {
                         )}
                         {this.props.twitter ? (
                           <li>
-                            <a href={this.props.twitter}>
+                            <a target="_blank" href={this.props.twitter}>
                               <FaTwitter size="1em" />
                             </a>
                           </li>
@@ -120,7 +120,7 @@ class Navbar extends React.Component {
                         )}
                         {this.props.instagram ? (
                           <li>
-                            <a href={this.props.instagram}>
+                            <a target="_blank" href={this.props.instagram}>
                               <FaInstagram size="1em" />
                             </a>
                           </li>

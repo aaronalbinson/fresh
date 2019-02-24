@@ -68,7 +68,10 @@ const TemplateWrapper = ({ children }) => (
                       <ul>
                         {node.frontmatter.sociallinks.facebook ? (
                           <li>
-                            <a href={node.frontmatter.sociallinks.facebook}>
+                            <a
+                              target="_blank"
+                              href={node.frontmatter.sociallinks.facebook}
+                            >
                               <FaFacebook size="1em" />
                             </a>
                           </li>
@@ -77,7 +80,10 @@ const TemplateWrapper = ({ children }) => (
                         )}
                         {node.frontmatter.sociallinks.twitter ? (
                           <li>
-                            <a href={node.frontmatter.sociallinks.twitter}>
+                            <a
+                              target="_blank"
+                              href={node.frontmatter.sociallinks.twitter}
+                            >
                               <FaTwitter size="1em" />
                             </a>
                           </li>
@@ -86,7 +92,10 @@ const TemplateWrapper = ({ children }) => (
                         )}
                         {node.frontmatter.sociallinks.instagram ? (
                           <li>
-                            <a href={node.frontmatter.sociallinks.instagram}>
+                            <a
+                              target="_blank"
+                              href={node.frontmatter.sociallinks.instagram}
+                            >
                               <FaInstagram size="1em" />
                             </a>
                           </li>
