@@ -14,8 +14,8 @@ elements:
         judgename: Ben Casey
       - judgecompany: Jack Renwick Studio
         judgename: Jack Renwick
-      - judgecompany: Magpie Studio
-        judgename: David Azurdia
+      - judgecompany: Superunion
+        judgename: Stuart Radford
       - judgecompany: Taxi Studio
         judgename: Spencer Buck
       - judgecompany: NB Studio

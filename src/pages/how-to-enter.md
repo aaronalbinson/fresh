@@ -26,12 +26,12 @@ elements:
       pixels.
 
 
-      – A separate, A4 single page PDF of the project description outlining what
-      the brief was, your approach and what the solution was should also be
-      attached.This should not exceed  150 words.
+      – A separate, A4 single page editable PDF of the project description
+      outlining what the brief was, your approach and what the solution was
+      should also be attached. This should not exceed 150 words.
 
 
-      – We do not accept Jpegs,Tifs, MBP, Mov files or Mp4 files. If the project
+      – We only expect to receive PDFs and no other file types. If the project
       has a video, please submit a link at the end of the project description
       PDF. 
 
@@ -39,13 +39,13 @@ elements:
       – All attached PDFs should be titled as follows:
 
 
-      FRESHENTRY_CATEGORYNAME_PROJECTTITLE_CLIENT
+      FRESHENTRY-CATEGORYNAME-PROJECTTITLE-CLIENT-AGENCYNAME
 
 
       – The body of your email should read:
 
 
-      Fresh Entry | Category Name | Project Title | Client | Your Company |
+      Fresh Entry | Category Name | Project Title | Client | Agency Name |
       Credits
 
 
@@ -53,11 +53,15 @@ elements:
       delay of up to a couple of days to respond.
 
 
-      – All entries need to be submitted at the very latest by Friday 8 March
-      2019 and should be emailed to:
+      – All entries need to be submitted at the very latest by 6pm on Friday 29
+      March 2019 and should be emailed to:
 
 
       <mailto:entries@freshawards.co.uk>
+
+
+      – Judging will take place on Thursday 4 April and to keep things fresh, we
+      will be announcing the winners on the same day, live from our website.
 
 
       – Each submission is £100+vat and if you pay for five entries, you get the
