@@ -21,7 +21,7 @@ body
   align-items: flex-end
   flex-wrap: wrap
   width: 100vw
-  height: 170px
+  min-height: 170px
   .logoLink
     flex: 0 0 150px
 
@@ -82,11 +82,12 @@ a:hover
 .is-visible-mobile
   display: none
 
-@media screen and (max-width: 768px)
+@media screen and (max-width: 915px)
   .is-visible-mobile
     display: block !important
   .top
     padding: 20px
+    min-height: 130px
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6
   font-weight: 500 !important
@@ -101,6 +102,6 @@ a:hover
 .How.To.Enter
   .elements
     .element
-      margin-top: -78px
+      margin-top: -93px
       &:first-child
         margin-top: 0

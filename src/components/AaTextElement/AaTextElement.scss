@@ -64,3 +64,9 @@
     padding-left: 200px;
     max-width: 1200px;
 }
+
+@media screen and (max-width: 915px) {
+    .TextElement .content {
+        padding-left: 0;
+    }
+}

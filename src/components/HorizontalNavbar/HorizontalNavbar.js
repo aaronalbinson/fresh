@@ -85,9 +85,6 @@ class Navbar extends React.Component {
             render={data => (
               <div>
                 <ul>
-                  {/* <li>
-                  <Link to="/">Home</Link>
-                </li> */}
                   {data.allMarkdownRemark.edges.map(({ node }) => (
                     <li key={node.id}>
                       <AniLink
