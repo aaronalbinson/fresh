@@ -32,9 +32,9 @@ elements:
       recently Highest Point Festival.
 
 
-      View Rebecca’s work at <a
-      href="http://rebeccapaigeart.co.uk">rebeccapaigeart.co.uk</a> and support
-      one of our industry's freshest talents.
+      View Rebecca’s work at <a href="http://rebeccapaigeart.co.uk"
+      target="_blank">rebeccapaigeart.co.uk</a> and support one of our
+      industry's freshest talents.
     type: text
 ---
 
