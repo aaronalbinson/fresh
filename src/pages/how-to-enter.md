@@ -61,7 +61,7 @@ elements:
 
 
       – Judging will take place on Thursday 4 April and to keep things fresh, we
-      will be announcing the winners on the same day, live from our website.
+      will be announcing the winners on the same day live from our website.
 
 
       – Each submission is £100+vat and if you pay for five entries, you get the
