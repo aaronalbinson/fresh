@@ -21,10 +21,12 @@ elements:
       intricate lives of ancient civilisations. 
 
 
-      As a printmaker who usually works with linocut, Rebecca enjoys capturing
-      the beauty that exists in the ruins of ancient societies – often taking
-      complex and otherwise overlooked accounts of history and recreating them
-      in an energetic, and engaging manner. 
+      As a printmaker who usually works with traditional linocut techniques,
+      Rebecca enjoys capturing the beauty that exists in the ruins of ancient
+      societies – often taking complex and otherwise overlooked accounts of
+      history and recreating them in an energetic, and engaging manner. As a
+      rule of thumb, Rebecca loves to embrace all that comes with working with
+      the ancient; it is rough, it is unrefined, it is wild!
 
 
       Since graduating last year, her work has been exhibited at globally
