@@ -45,3 +45,10 @@
       margin-right: auto;
       width: auto;
 }
+
+@media screen and (max-width: 915px) {
+    .jumbotron-image {
+        width: 100%;
+        height: auto;
+  }
+}
