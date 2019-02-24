@@ -21,13 +21,12 @@ elements:
       intricate lives of ancient civilisations. 
 
 
-      As a printmaker who usually works with linocut, she enjoys capturing the
-      beauty that exists in the ruins of ancient societies – often taking
+      As a printmaker who usually works with linocut, Rebecca enjoys capturing
+      the beauty that exists in the ruins of ancient societies – often taking
       complex and otherwise overlooked accounts of history and recreating them
-      in an energetic, and engaging manner. Since graduating last year,
-      Rebecca's work has been exhibited at globally renowned New Designers and
-      she has worked on a number of commissions, most recently Highest Point
-      Festival.
+      in an energetic, and engaging manner. Since graduating last year, her work
+      has been exhibited at globally renowned New Designers and she has worked
+      on a number of commissions, most recently Highest Point Festival.
 
 
       View Rebecca’s work at
