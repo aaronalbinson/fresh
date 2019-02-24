@@ -3,6 +3,7 @@ import { Link } from "gatsby";
 import TransitionLink from "gatsby-plugin-transition-link";
 import AniLink from "gatsby-plugin-transition-link/AniLink";
 import { StaticQuery, graphql } from "gatsby";
+import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 require("./HorizontalNavbar.scss");
 
@@ -83,21 +84,54 @@ class Navbar extends React.Component {
               }
             `}
             render={data => (
-              <div>
-                <ul>
-                  {data.allMarkdownRemark.edges.map(({ node }) => (
-                    <li key={node.id}>
-                      <AniLink
-                        fade
-                        className="navbarItem"
-                        to={node.frontmatter.menupath}
-                      >
-                        {node.frontmatter.title}
-                      </AniLink>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+              <React.Fragment>
+                <div>
+                  <ul>
+                    {data.allMarkdownRemark.edges.map(({ node }) => (
+                      <li key={node.id}>
+                        <AniLink
+                          fade
+                          className="navbarItem"
+                          to={node.frontmatter.menupath}
+                        >
+                          {node.frontmatter.title}
+                        </AniLink>
+                      </li>
+                    ))}
+                    <div className="footerSocial inmenu">
+                      <ul>
+                        {this.props.facebook ? (
+                          <li>
+                            <a href={this.props.facebook}>
+                              <FaFacebook size="1em" />
+                            </a>
+                          </li>
+                        ) : (
+                          ""
+                        )}
+                        {this.props.twitter ? (
+                          <li>
+                            <a href={this.props.twitter}>
+                              <FaTwitter size="1em" />
+                            </a>
+                          </li>
+                        ) : (
+                          ""
+                        )}
+                        {this.props.instagram ? (
+                          <li>
+                            <a href={this.props.instagram}>
+                              <FaInstagram size="1em" />
+                            </a>
+                          </li>
+                        ) : (
+                          ""
+                        )}
+                      </ul>
+                    </div>
+                  </ul>
+                </div>
+              </React.Fragment>
             )}
           />
         </nav>

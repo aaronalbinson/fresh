@@ -58,7 +58,11 @@ const TemplateWrapper = ({ children }) => (
                       />
                     </AniLink>
                     {node.frontmatter.menutype === "headerhorizontal" && (
-                      <HorizontalNavbar />
+                      <HorizontalNavbar
+                        facebook={node.frontmatter.sociallinks.facebook}
+                        twitter={node.frontmatter.sociallinks.twitter}
+                        instagram={node.frontmatter.sociallinks.instagram}
+                      />
                     )}
                     <div className="footerSocial">
                       <ul>

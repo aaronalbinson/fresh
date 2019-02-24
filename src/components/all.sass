@@ -87,7 +87,10 @@ a:hover
     #outer-container
       margin-top: 130px
   .footerSocial
-    display: none
+    position: relative;
+    flex: 1 1 100%;
+    margin-left: 50px;
+    margin-top: 56px;
   .is-visible-mobile
     display: block !important
   .top
@@ -97,12 +100,13 @@ a:hover
     position: absolute
     right: 40px
     top: 86px
-  .menuactive + .footerSocial
-    display: block
-    position: relative;
-    flex: 1 1 100%;
-    margin-left: 50px;
-    margin-top: 56px;
+  .menuactive
+    .footerSocial
+      display: block
+      position: relative;
+      flex: 1 1 100%;
+      margin-left: 50px;
+      margin-top: 56px;
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6
   font-weight: 500 !important

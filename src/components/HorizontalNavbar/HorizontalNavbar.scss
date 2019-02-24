@@ -20,21 +20,41 @@
 }
 
 @media screen and (max-width: 915px) {
+  .footerSocial {
+    display: none;
+  }
   .horizontalNavbar{
     flex: 1 0 100%;
+    overflow:hidden;
     &.menuinactive {
-      display: none;
+      max-height: 0;
+      transition: max-height 0.5s linear;
     }
     &.menuactive{
-      display: block;
+      max-height: 500px;
+      transition: max-height 0.5s linear;
     }
     ul {
-      margin-top: 50px;
+      margin-top: 20px;
+      margin-bottom: -48px;
       width: 100%;
       display: block;
       li {
         padding-left: 0;
       }
     }
+    .footerSocial.inmenu {
+      position: relative;
+      display: block;
+      ul {
+        display: flex;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 915px) {
+  .footerSocial.inmenu {
+    display: none;
   }
 }
