@@ -39,7 +39,7 @@ elements:
       – All attached PDFs should be titled as follows:
 
 
-      FRESHENTRY_CATEGORYNAME_PROJECTTITLE_CLIENT_AGENCYNAME
+      FRESHENTRY-CATEGORYNAME-PROJECTTITLE-CLIENT-AGENCYNAME
 
 
       – The body of your email should read:
@@ -53,8 +53,8 @@ elements:
       delay of up to a couple of days to respond.
 
 
-      – All entries need to be submitted at the very latest by Friday 29 March
-      2019 and should be emailed to:
+      – All entries need to be submitted at the very latest by 6pm on Friday 29
+      March 2019 and should be emailed to:
 
 
       <mailto:entries@freshawards.co.uk>
