@@ -29,7 +29,7 @@ class Navbar extends React.Component {
             {this.state.showMenu ? (
               <svg
                 viewBox="0 0 105 105"
-                width="20"
+                width="16"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
@@ -42,7 +42,7 @@ class Navbar extends React.Component {
             ) : (
               <svg
                 viewBox="0 0 135 110"
-                width="16"
+                width="20"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
