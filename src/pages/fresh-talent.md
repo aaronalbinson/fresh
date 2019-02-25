@@ -16,10 +16,10 @@ elements:
       eggs. 
 
 
-      Rebecca Paige is a London born, Cumbrian based Illustrator and printmaker
-      and graduated from The University of Cumbria in 2018 with an Honours
-      degree in Illustration. Her work explores the primitive yet equally
-      intricate lives of ancient civilisations. 
+      Rebecca is a London born, Cumbrian based Illustrator and printmaker and
+      graduated from The University of Cumbria in 2018 with an Honours degree in
+      Illustration. Her work explores the primitive yet equally intricate lives
+      of ancient civilisations. 
 
 
       As a printmaker who usually works with linocut, Rebecca enjoys capturing
