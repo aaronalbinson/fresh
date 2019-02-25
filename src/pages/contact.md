@@ -26,9 +26,8 @@ elements:
 
 
       Please also check out the <a href="http://fresh-adventures.co.uk"
-      target="_blank">Fresh Adventures</a> as well as key dates and information
-      on this years <a href="http://freshfilmawards.com" target="_blank">Fresh
-      Film Awards</a>.
+      target="_blank">Fresh Adventures</a> and this years <a
+      href="http://freshfilmawards.com" target="_blank">Fresh Film Awards</a>.
     type: text
 ---
 
