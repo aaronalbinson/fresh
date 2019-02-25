@@ -12,8 +12,7 @@ elements:
       it’s only right we give an opportunity to the freshest talent in our
       industry. Each year, the egg will act as a blank canvas for a graduate to
       provide a unique creative approach. This year, recent Illustration
-      graduate Rebecca Paige has been commissioned to create the 2019 winning
-      eggs. 
+      graduate Rebecca Paige has been commissioned to create the winning eggs. 
 
 
       Rebecca is a London born, Cumbrian based Illustrator and printmaker and
