@@ -5,22 +5,22 @@ elements:
   - lightordark: dark
     paragraph: '# Contact'
     rparagraph: >-
-      The Fresh Creative Awards Ltd  
+      The Fresh Creative Awards Ltd\
 
-      Rosewood House  
+      1 Thraves Place\
 
-      84a Main Road  
+      Main Road\
 
-      Radcliffe on Trent  
+      Radcliffe on Trent\
 
-      Nottingham  
+      Nottingham\
 
-      NG12 2BQ  
+      NG12 2BJ\
 
       UK  
 
 
-      +44 (0) 1159 333811  
+      +44 (0)20 3858 7809\
 
       <mailto:awards@freshawards.co.uk>
 
