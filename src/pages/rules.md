@@ -13,29 +13,29 @@ elements:
       categories are as follows:
 
 
-      – Brand Campaigns\
+      – Brand Campaigns  
 
-      – Brand Creation\
+      – Brand Creation  
 
-      – Brand Rebrand\
+      – Brand Rebrand  
 
-      – Posters\
+      – Posters  
 
-      – Publication Design\
+      – Publication Design  
 
-      – Craft Collaboration (writing, illustration or photography for design)\
+      – Craft Collaboration (writing, illustration or photography for design)  
 
-      – Packaging\
+      – Packaging  
 
-      – Environmental (exhibitions, way-finding, environmental graphics etc.)\
+      – Environmental (exhibitions, way-finding, environmental graphics etc.)  
 
-      – Web Design\
+      – Web Design  
 
-      – App Design\
+      – App Design  
 
-      – TV, Film/Video Graphics\
+      – TV, Film/Video Graphics  
 
-      – Digital Installations\
+      – Digital Installations  
 
       – The Big F
 
