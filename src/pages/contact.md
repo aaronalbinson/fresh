@@ -5,29 +5,29 @@ elements:
   - lightordark: dark
     paragraph: '# Contact'
     rparagraph: >-
-      The Fresh Creative Awards Ltd  
+      The Fresh Creative Awards Ltd\
 
-      Rosewood House  
+      Rosewood House\
 
-      84a Main Road  
+      84a Main Road\
 
-      Radcliffe on Trent  
+      Radcliffe on Trent\
 
-      Nottingham  
+      Nottingham\
 
-      NG12 2BQ  
+      NG12 2BQ\
 
       UK  
 
 
-      +44 (0) 1159 333811  
+      +44 (0) 1159 333811\
 
       <mailto:awards@freshawards.co.uk>
 
 
-      Please also check out the <a href="[Fresh Adventures]"
-      target="_blank">(https://www.fresh-adventures.co.uk/)</a> as well this
-      years <a href="[Fresh Film Awards]"
+      Please also check out the \[Fresh Adventures]"
+      target="_blank">(https://www.fresh-adventures.co.uk/) as well this years
+      <a href="[Fresh Film Awards]"
       target="_blank">(https://www.freshfilmawards.com/)</a>.
     type: text
 ---
