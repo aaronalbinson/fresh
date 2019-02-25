@@ -21,7 +21,7 @@ elements:
       there may be some legacy pages and pages developed by third-parties that
       are not fully compliant with our standards. If you would like further
       information about our accessibility standards or have problems accessing
-      this website, please contact us.
+      this website, please do not hesitate to get in touch.
 
 
       ## Additional information
