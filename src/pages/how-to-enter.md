@@ -36,6 +36,11 @@ elements:
       PDF. 
 
 
+      – The category names can be found on the 'Rules' page, which is located in
+      the footer menu. Please read through this carefully and ensure your
+      project is suitable for the category you wish to enter.
+
+
       – All attached PDFs should be titled as follows:
 
 
