@@ -26,9 +26,9 @@ elements:
       pixels.
 
 
-      – A separate, A4 single page editable PDF of the project description
-      outlining what the brief was, your approach and what the solution was
-      should also be attached. This should not exceed 150 words.
+      – A separate, editable (with live text) A4 single page PDF of the project
+      description outlining what the brief was, your approach and what the
+      solution was should also be attached. This should not exceed 200 words.
 
 
       – We only expect to receive PDFs and no other file types. If the project
