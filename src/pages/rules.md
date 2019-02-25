@@ -6,46 +6,50 @@ elements:
     paragraph: '# Rules'
     rparagraph: >-
       This is Fresh: Best of British so entries are only open to entrants in the
-      UK
+      UK.
 
 
-      There are no categories in Fresh and we are looking for great creativity
-      in the following areas
+      With our new format, we are now exclusively focusing on Design. The
+      categories are as follows:
 
 
-      Advertising  
+      – Brand Campaigns\
 
-      Craft  
+      – Brand Creation\
 
-      Communications  
+      – Brand Rebrand\
 
-      Design  
+      – Posters\
 
-      Experiential  
+      – Publication Design\
 
-      Home Made  
+      – Craft Collaboration (writing, illustration or photography for design)\
 
-      Innovation  
+      – Packaging\
 
-      Moving Images  
+      – Environmental (exhibitions, way-finding, environmental graphics etc.)\
 
-      Performance  
+      – Web Design\
 
-      Spacial  
+      – App Design\
 
-      Weird & Wonderful.
+      – TV, Film/Video Graphics\
+
+      – Digital Installations\
+
+      – The Big F
 
 
-      You can submit as many entries as you like for one set fee
+      You can submit as many entries as you like for one set fee.
 
 
       £25.00 + vat Students or Members of the Public (who are not in full time
-      employment in the Creative Sectors)
+      employment in the Creative Sectors).
 
 
       £100.00 + vat Freelancers, Boutique or Small Agencies/Shops, Start Ups or
       Consultancies under 5 Staff – any small business falls under this fee
-      bracket
+      bracket.
 
 
       £500.00 + vat Mid-Size Agencies & Independents & SME’s with over five
