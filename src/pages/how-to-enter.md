@@ -31,9 +31,9 @@ elements:
       be attached. This should not exceed 200 words.
 
 
-      – We only expect to receive PDFs and no other file types. If the project
-      has a video, please submit a link at the end of the project description
-      PDF. 
+      – We only expect to receive PDFs and do not accept any other file types.
+      If the project has a video, please submit a link at the end of the project
+      description PDF. 
 
 
       – The category names can be found on the 'Rules' page, which is located in
