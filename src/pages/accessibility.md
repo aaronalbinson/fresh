@@ -5,7 +5,7 @@ elements:
   - lightordark: dark
     paragraph: '# Accessibility'
     rparagraph: >-
-      At Fresh Awards our aim is to make our website as accessible as possible
+      At Fresh Awards, our aim is to make our website as accessible as possible
       to the widest range of visitors. This means considering the specific needs
       of those with visual or physical impairments, learning difficulties and
       other forms of disability. In addition it means having an understanding of
