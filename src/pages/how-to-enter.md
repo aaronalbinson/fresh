@@ -69,11 +69,11 @@ elements:
       will be announcing the winners on the same day, live from our website.
 
 
-      – Each submission is £100+vat and if you pay for five entries, you get the
-      sixth for free. Once you have completed all emails please ensure you pay
-      online via BACS to Cloud 9 Event Management Ltd (Fresh’s Holding Company)
-      Sort Code 40-35-19 Account No 91441485. VAT Receipts will be issued for
-      all payments.
+      – Each submission is £100 + VAT and if you pay for five entries, you get
+      the sixth for free. Once you have completed all emails please ensure you
+      pay online via BACS to Cloud 9 Event Management Ltd (Fresh’s Holding
+      Company) Sort Code 40-35-19 Account No 91441485. VAT Receipts will be
+      issued for all payments.
     type: text
 ---
 
