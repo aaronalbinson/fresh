@@ -5,22 +5,22 @@ elements:
   - lightordark: dark
     paragraph: '# Contact'
     rparagraph: >-
-      The Fresh Creative Awards Ltd\
+      The Fresh Creative Awards Ltd  
 
-      1 Thraves Place\
+      1 Thraves Place  
 
-      Main Road\
+      Main Road  
 
-      Radcliffe on Trent\
+      Radcliffe on Trent  
 
-      Nottingham\
+      Nottingham  
 
-      NG12 2BJ\
+      NG12 2BJ  
 
       UK  
 
 
-      +44 (0)20 3858 7809\
+      +44 (0)20 3858 7809  
 
       [paula@freshawards.co.uk](mailto:awards@freshawards.co.uk)
 
