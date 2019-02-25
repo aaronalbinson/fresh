@@ -25,10 +25,8 @@ elements:
       <mailto:awards@freshawards.co.uk>
 
 
-      Please also check out the \[Fresh Adventures]"
-      target="_blank">(https://www.fresh-adventures.co.uk/) as well this years
-      <a href="[Fresh Film Awards]"
-      target="_blank">(https://www.freshfilmawards.com/)</a>.
+      Please also check out the [Fresh Adventures](www.fresh-adventures.co.uk)
+      as well this years [Fresh Film Awards](www.freshfilmawards.com).
     type: text
 ---
 
