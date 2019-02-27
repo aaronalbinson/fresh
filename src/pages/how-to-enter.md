@@ -62,7 +62,7 @@ elements:
       March 2019 and should be emailed to:
 
 
-      <mailto:entries@freshawards.co.uk>
+      [paula@freshawards.co.uk](mailto:entries@freshawards.co.uk)
 
 
       – Judging will take place on Thursday 4 April and to keep things fresh, we
