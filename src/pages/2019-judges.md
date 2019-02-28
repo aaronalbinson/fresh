@@ -20,6 +20,8 @@ elements:
         judgename: Spencer Buck
       - judgecompany: NB Studio
         judgename: Nick Finney
+      - judgecompany: Sarah Boris Studio
+        judgename: Sarah Boris
     type: judges
 ---
 
