@@ -8,16 +8,16 @@ elements:
   - judge:
       - judgecompany: Rose
         judgename: Simon Elliott
-      - judgecompany: Rose
-        judgename: Garry Blackburn
-      - judgecompany: The Chase
-        judgename: Ben Casey
       - judgecompany: Jack Renwick Studio
         judgename: Jack Renwick
-      - judgecompany: Superunion
-        judgename: Stuart Radford
+      - judgecompany: The Chase
+        judgename: Ben Casey
       - judgecompany: Taxi Studio
         judgename: Spencer Buck
+      - judgecompany: Superunion
+        judgename: Stuart Radford
+      - judgecompany: Rose
+        judgename: Garry Blackburn
       - judgecompany: NB Studio
         judgename: Nick Finney
       - judgecompany: Sarah Boris Studio
