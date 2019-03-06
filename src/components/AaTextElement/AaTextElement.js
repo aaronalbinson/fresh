@@ -23,14 +23,18 @@ class AaTextElement extends React.Component {
                 <div
                   className="left column is-7"
                   dangerouslySetInnerHTML={{
-                    __html: converter.makeHtml(this.props.html)
+                    __html: converter.makeHtml(
+                      this.props.html.replace(/\\/g, "  ")
+                    )
                   }}
                 />
                 {this.props.righthtml && (
                   <div
                     className="right column is-7"
                     dangerouslySetInnerHTML={{
-                      __html: converter.makeHtml(this.props.righthtml)
+                      __html: converter.makeHtml(
+                        this.props.righthtml.replace(/\\/g, "  ")
+                      )
                     }}
                   />
                 )}
