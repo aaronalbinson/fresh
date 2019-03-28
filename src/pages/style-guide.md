@@ -63,5 +63,8 @@ elements:
     type: text
   - prebuilt: services
     type: prebuilt
+  - loop: true
+    source: 'https://youtu.be/VrS6akzR3sk'
+    type: video
 ---
 
