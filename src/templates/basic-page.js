@@ -108,6 +108,10 @@ export const BasicPageTemplate = ({
                       url={element.source.publicURL}
                       playing
                       loop={element.loop}
+                      muted="true"
+                      volume={0}
+                      width="100%"
+                      height="580"
                     />
                     {console.log(element.source)}
                   </div>
