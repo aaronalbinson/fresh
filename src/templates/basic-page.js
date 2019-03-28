@@ -101,6 +101,11 @@ export const BasicPageTemplate = ({
                   <div>
                     <Judges judges={element.judge} />
                   </div>
+                )) ||
+                (element.type === "video" && (
+                  <div>
+                    <ReactPlayer url={element.source} playing />
+                  </div>
                 ))}
             </div>
           ))}
@@ -197,6 +202,9 @@ export const pageQuery = graphql`
             judgecompany
             judgename
           }
+
+          source
+          loop
         }
       }
     }

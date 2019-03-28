@@ -103,7 +103,7 @@ collections:
             name: "video"
             widget: "object"
             fields:
-              - {label: Video source, name: source, widget: "string"}
+              - {label: Video source, name: source, widget: "file"}
               - {label: Loop, name: loop, widget: "boolean"}
 
 
