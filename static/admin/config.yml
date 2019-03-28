@@ -99,7 +99,7 @@ collections:
                 fields:
                   - {label: Judge name, name: judgename, widget: "string"}
                   - {label: Judge company, name: judgecompany, widget: "string"}
-        - label: "Video"
+          - label: "Video"
             name: "video"
             widget: "object"
             fields:
