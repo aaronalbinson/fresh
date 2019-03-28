@@ -2,10 +2,8 @@
 templateKey: basic-page
 title: Fresh Awards
 elements:
-  - herodescription: ''
-    heroimage: /img/fresh-egg-223.jpg
-    herolink: ''
-    herotitle: ''
-    type: hero
+  - loop: true
+    source: /img/comp_03.mp4
+    type: video
 ---
 

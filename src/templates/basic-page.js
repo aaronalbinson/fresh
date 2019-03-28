@@ -113,7 +113,6 @@ export const BasicPageTemplate = ({
                       width="100%"
                       height="580"
                     />
-                    {console.log(element.source)}
                   </div>
                 ))}
             </div>
