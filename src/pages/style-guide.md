@@ -64,7 +64,7 @@ elements:
   - prebuilt: services
     type: prebuilt
   - loop: true
-    source: 'https://youtu.be/VrS6akzR3sk'
+    source: /img/comp_03.mp4
     type: video
 ---
 
