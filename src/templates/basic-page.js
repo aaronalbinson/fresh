@@ -105,10 +105,11 @@ export const BasicPageTemplate = ({
                 (element.type === "video" && (
                   <div>
                     <ReactPlayer
-                      url={element.source}
+                      url={element.source.publicURL}
                       playing
                       loop={element.loop}
                     />
+                    {console.log(element.source)}
                   </div>
                 ))}
             </div>
@@ -207,7 +208,10 @@ export const pageQuery = graphql`
             judgename
           }
 
-          source
+          source {
+            name
+            publicURL
+          }
           loop
         }
       }
