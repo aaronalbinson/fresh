@@ -13,6 +13,7 @@ import AaBlockquote from "../components/AaBlockquote/AaBlockquote";
 import AaCustomHTML from "../components/AaCustomHTML/AaCustomHTML";
 import Services from "../components/Services/Services";
 import Judges from "../components/Judges/Judges";
+import ReactPlayer from "react-player";
 
 export const BasicPageTemplate = ({
   content,

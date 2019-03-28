@@ -99,6 +99,12 @@ collections:
                 fields:
                   - {label: Judge name, name: judgename, widget: "string"}
                   - {label: Judge company, name: judgecompany, widget: "string"}
+        - label: "Video"
+            name: "video"
+            widget: "object"
+            fields:
+              - {label: Video source, name: source, widget: "string"}
+              - {label: Loop, name: loop, widget: "boolean"}
 
 
   - name: "menu"
