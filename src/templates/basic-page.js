@@ -104,7 +104,11 @@ export const BasicPageTemplate = ({
                 )) ||
                 (element.type === "video" && (
                   <div>
-                    <ReactPlayer url={element.source} playing />
+                    <ReactPlayer
+                      url={element.source}
+                      playing
+                      loop={element.loop}
+                    />
                   </div>
                 ))}
             </div>
