@@ -105,6 +105,7 @@ export const BasicPageTemplate = ({
                 (element.type === "video" && (
                   <div>
                     <ReactPlayer
+                      className="nooverflow"
                       url={element.source.publicURL}
                       playing
                       loop={element.loop}
