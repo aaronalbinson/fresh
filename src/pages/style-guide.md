@@ -66,5 +66,10 @@ elements:
   - loop: true
     source: /img/comp_03.mp4
     type: video
+  - herodescription: ''
+    heroimage: /img/fresh-egg-223.jpg
+    herolink: ''
+    herotitle: ''
+    type: hero
 ---
 
