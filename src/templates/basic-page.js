@@ -111,7 +111,7 @@ export const BasicPageTemplate = ({
                       muted="true"
                       volume={0}
                       width="100%"
-                      height="580"
+                      height="80vh"
                     />
                   </div>
                 ))}
