@@ -105,15 +105,16 @@ export const BasicPageTemplate = ({
                 (element.type === "video" && (
                   <div>
                     <ReactPlayer
+                      className="nooverflow"
                       url={element.source.publicURL}
                       playing
+                      playsinline={true}
                       loop={element.loop}
-                      muted="true"
+                      muted={true}
                       volume={0}
                       width="100%"
-                      height="580"
+                      height="80vh"
                     />
-                    {console.log(element.source)}
                   </div>
                 ))}
             </div>
