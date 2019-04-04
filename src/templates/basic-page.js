@@ -108,8 +108,9 @@ export const BasicPageTemplate = ({
                       className="nooverflow"
                       url={element.source.publicURL}
                       playing
+                      playsinline={true}
                       loop={element.loop}
-                      muted="true"
+                      muted={true}
                       volume={0}
                       width="100%"
                       height="80vh"
