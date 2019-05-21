@@ -74,9 +74,9 @@ elements:
 
       Project Manager: Joanna Waclawski \
 
-      Client: 10bet
+      Client: 10bet \
 
-      CMO: Roy Meckenzie\
+      CMO: Roy Meckenzie \
 
       Head of UI: Eitan Cohen \
 
