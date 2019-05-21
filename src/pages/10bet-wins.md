@@ -82,6 +82,5 @@ elements:
 
       UI designer: Yoad Nave
     type: text
-  - type: hero
 ---
 
