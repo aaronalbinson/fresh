@@ -2,8 +2,7 @@
 templateKey: basic-page
 title: Fresh Awards
 elements:
-  - loop: true
-    source: /img/announcement.mp4
-    type: video
+  - heroimage: /img/fresh_blank.jpg
+    type: hero
 ---
 
