@@ -1,6 +1,6 @@
 ---
 templateKey: basic-page
-title: Judges
+title: 2020 Judges
 elements:
   - paragraph: '# Judges'
     type: text
