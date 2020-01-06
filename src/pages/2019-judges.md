@@ -1,13 +1,13 @@
 ---
 templateKey: basic-page
-title: 2019 Judges
+title: 2020 Judges
 elements:
   - lightordark: dark
     paragraph: '# Judges'
     type: text
   - judge:
-      - judgecompany: Judges to be revealed...
-        judgename: Fresh 2020
+      - judgecompany: ''
+        judgename: Judges to be revealed...
       - judgecompany: Jack Renwick Studio
         judgename: Jack Renwick
       - judgecompany: The Chase
