@@ -5,14 +5,14 @@ elements:
   - lightordark: dark
     paragraph: '# How To Enter'
     rparagraph: >-
-      2019 ENTRIES ARE NOW CLOSED. We’re keeping it simple, and going a little
-      green here at Fresh, and will be asking for online entries only in a PDF
-      format. If you have a physical entry that you want to submit to back up
-      your online submission, then please include these details with your
-      submission and we can provide details of where to send the work for the
-      actual judging. We are unable to return any of these items, so please
-      think carefully about physical work – although we do understand that some
-      entries are best judged by touch and feel.
+      We’re keeping it simple, and going a little green here at Fresh, and will
+      be asking for online entries only in a PDF format. If you have a physical
+      entry that you want to submit to back up your online submission, then
+      please include these details with your submission and we can provide
+      details of where to send the work for the actual judging. We are unable to
+      return any of these items, so please think carefully about physical work –
+      although we do understand that some entries are best judged by touch and
+      feel.
     type: text
   - lightordark: dark
     paragraph: '# Requirements'
