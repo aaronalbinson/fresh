@@ -1,7 +1,7 @@
 ---
 templateKey: menu
-title: 2019 Judges
-menupath: /2019-judges
+title: 2020 Judges
+menupath: /2020-judges
 menuorder: 3
 ---
 
