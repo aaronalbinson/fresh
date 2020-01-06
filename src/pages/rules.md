@@ -13,31 +13,23 @@ elements:
       categories are as follows:
 
 
-      – Brand Campaigns\
-
-      – Brand Creation\
-
-      – Brand Rebrand\
-
-      – Posters\
-
-      – Publication Design\
-
-      – Craft Collaboration (writing, illustration or photography for design)\
-
       – Packaging\
 
-      – Environmental (exhibitions, way-finding, environmental graphics etc.)\
+      – Branding\
 
-      – Web Design\
+      – Brand Campaigns\
 
-      – App Design\
+      – Environmental (Shop Displays, Interiors etc)\
 
-      – TV, Film/Video Graphics\
+      – Writing for Design\
 
-      – Digital Installations\
+      – Illustration\
 
-      – The Big F
+      – Digital Design\
+
+      – Film\
+
+      – Diversity
 
 
       Each submission is £100 + VAT and if you pay for five entries, you get the
