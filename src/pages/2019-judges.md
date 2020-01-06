@@ -8,20 +8,6 @@ elements:
   - judge:
       - judgecompany: ''
         judgename: Judges to be revealed...
-      - judgecompany: Jack Renwick Studio
-        judgename: Jack Renwick
-      - judgecompany: The Chase
-        judgename: Ben Casey
-      - judgecompany: Taxi Studio
-        judgename: Spencer Buck
-      - judgecompany: Superunion
-        judgename: Stuart Radford
-      - judgecompany: Rose
-        judgename: Garry Blackburn
-      - judgecompany: NB Studio
-        judgename: Nick Finney
-      - judgecompany: Sarah Boris Studio
-        judgename: Sarah Boris
     type: judges
 ---
 
