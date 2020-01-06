@@ -29,7 +29,13 @@ elements:
 
       – Film\
 
-      – Diversity
+      – Diversity\
+
+      – The Big F*
+
+
+      \*Winning entries from each category will automatically be entered (free
+      of charge) for the chance to win The Big F.
 
 
       Each submission is £100 + VAT and if you pay for five entries, you get the
