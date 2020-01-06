@@ -6,8 +6,8 @@ elements:
     paragraph: '# Judges'
     type: text
   - judge:
-      - judgecompany: Rose
-        judgename: Simon Elliott
+      - judgecompany: Judges to be revealed...
+        judgename: Fresh 2020
       - judgecompany: Jack Renwick Studio
         judgename: Jack Renwick
       - judgecompany: The Chase
