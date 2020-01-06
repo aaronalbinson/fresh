@@ -7,5 +7,9 @@ elements:
   - judge:
       - judgename: Judges to be revealed...
     type: judges
+  - judge:
+      - judgecompany: ' '
+        judgename: ' '
+    type: judges
 ---
 
