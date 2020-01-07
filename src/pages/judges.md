@@ -5,7 +5,7 @@ elements:
   - paragraph: '# Judges'
     type: text
   - judge:
-      - judgename: Judges to be revealed...
+      - judgename: To be revealed...
     type: judges
   - judge:
       - judgecompany: ' '
