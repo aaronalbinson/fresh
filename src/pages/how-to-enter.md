@@ -58,15 +58,15 @@ elements:
       delay of up to a couple of days to respond.
 
 
-      – All entries need to be submitted at the very latest by 6pm on Friday 29
-      March 2019 and should be emailed to:
+      – All entries need to be submitted at the very latest by 6pm on Friday 28
+      February 2020 and should be emailed to:
 
 
       [paula@freshawards.co.uk](mailto:entries@freshawards.co.uk)
 
 
-      – Judging will take place on Thursday 4 April and to keep things fresh, we
-      will be announcing the winners on the same day, live from our website.
+      – Judging will take place on Tuesday 24 March and winners will be
+      announced on Tuesday 31 March, live from our website.
 
 
       – Each submission is £100 + VAT and if you pay for five entries, you get
