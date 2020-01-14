@@ -5,19 +5,18 @@ elements:
   - lightordark: dark
     paragraph: '# Welcome to Fresh'
     rparagraph: >-
-      The industry might have fallen out of love with awards, but Fresh has
-      always been unique and run for passion not profit, which is why it retains
-      a loyal following nationwide. With the exceptional people shaping the
-      results, The Fresh Creative Awards are back in 2020 with a new format and
-      focus exclusively on Design.
+      One of the iconic strengths of Fresh being independent and run for passion
+      not profit, is that it is always looking at new ways to ensure that strong
+      creativity is embraced and rewarded irrespective of where it has
+      originated from.
 
 
-      The iconic and stunning trophies are set to define the Freshest ideas and
-      design in the industry. And Fresh will remain a barometer for future
-      success, as we have seen time and time again, that work revered in our
-      Awards, goes on to win in other competitions. We are reigniting the Design
-      love story with these new, bespoke awards and look forward to celebrating
-      your exceptional work in our new Fresh environment.
+      For Fresh 2020, we’re taking a step forward to address the balance between
+      the regions and London, and having two juries, one outside of the M25 to
+      judge the work originating from London, and one in London responsible for
+      awarding the regional work, and only the very best will emerge with one of
+      our beautiful coveted eggs. How Fresh is your creativity? Let the battle
+      commence…
     type: text
 ---
 
