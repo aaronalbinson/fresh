@@ -74,6 +74,10 @@ elements:
       pay online via BACS to Cloud 9 Event Management Ltd (Fresh’s Holding
       Company) Sort Code 40-35-19 Account No 91441485. VAT Receipts will be
       issued for all payments.
+
+
+      – Information regarding purchasing replica trophies can be found on the
+      'Rules' page, which is located in the footer menu.
     type: text
 ---
 
