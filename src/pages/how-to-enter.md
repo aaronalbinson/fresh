@@ -76,8 +76,8 @@ elements:
       issued for all payments.
 
 
-      – Information regarding purchasing replica trophies can be found on the
-      'Rules' page, which is located in the footer menu.
+      – Information regarding the purchasing of replica trophies can be found on
+      the 'Rules' page, which is located in the footer menu.
     type: text
 ---
 
