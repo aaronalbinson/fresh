@@ -2,7 +2,8 @@
 templateKey: basic-page
 title: 2020 Judges
 elements:
-  - paragraph: '# Judges'
+  - lightordark: dark
+    paragraph: '# Judges'
     type: text
   - judge:
       - judgename: To be revealed...
