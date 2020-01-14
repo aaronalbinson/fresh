@@ -54,5 +54,20 @@ elements:
 
       All decisions by our juries are final.
     type: text
+  - paragraph: '# Replica Trophies'
+    rparagraph: >-
+      Replica Egg trophies are available in limited numbers per entry. An
+      entrant* may order a maximum of 1 copy in addition to the original. If the
+      entrant wins in several categories, the entrant is entitled to the same
+      number. Replica trophies cost £130 + delivery + VAT each.
+
+
+      Once winners are announced online on Tuesday 31 March, replicas must be
+      ordered by no later than Friday 10 April.
+
+
+      \* Entrant is defined as the company or individual that made and paid for
+      the entry.
+    type: text
 ---
 
