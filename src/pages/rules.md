@@ -63,11 +63,14 @@ elements:
       Replica Egg trophies are available in limited numbers per entry. An
       entrant may order a maximum of 1 copy in addition to the original. If the
       entrant wins in several categories, they are entitled to the same number.
-      Replica trophies cost £130 + delivery + VAT each.
+      Replica trophies cost £175 + delivery + VAT each.
 
 
       Once winners are announced online on Tuesday 31 March, replicas must be
-      ordered by no later than Friday 10 April.
+      ordered by no later than Friday 10 April. Enquires should be emailed to:
+
+
+      paula@freshawards.co.uk
     type: text
 ---
 
