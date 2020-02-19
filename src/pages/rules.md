@@ -66,8 +66,9 @@ elements:
       Replica trophies cost £175 + delivery + VAT each.
 
 
-      Once winners are announced online on Tuesday 31 March, replicas must be
-      ordered by no later than Friday 10 April. Enquires should be emailed to:
+      Once winners are announced online on Tuesday 31 March and Thursday 2
+      April, replicas must be ordered by no later than Friday 10 April. Enquires
+      should be emailed to:
 
 
       paula@freshawards.co.uk
