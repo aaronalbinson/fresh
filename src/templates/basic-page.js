@@ -38,16 +38,22 @@ export const BasicPageTemplate = ({
             <div className="element">
               {(element.type === "hero" && (
                 <div className="heroimage">
-                  { console.log(element) }
-                  <AaJumbotron
+                  {element.gif ? <AaJumbotron
                     title={element.herotitle}
                     description={element.herodescription}
                     featuredimage={
-                      element.heroimage &&
-                      element.heroimage.childImageSharp.fluid.src
+                      element.gif
                     }
                     link={element.herolink}
-                  />
+                  /> : <AaJumbotron
+                      title={element.herotitle}
+                      description={element.herodescription}
+                      featuredimage={
+                        element.heroimage &&
+                        element.heroimage.childImageSharp.fluid.src
+                      }
+                      link={element.herolink}
+                    />}
                 </div>
               )) ||
                 (element.type === "text" && (
@@ -171,6 +177,7 @@ export const pageQuery = graphql`
         elements {
           type
 
+          gif
           herodescription
           heroimage {
             childImageSharp {
