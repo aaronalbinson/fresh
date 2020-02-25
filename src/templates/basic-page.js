@@ -38,11 +38,12 @@ export const BasicPageTemplate = ({
             <div className="element">
               {(element.type === "hero" && (
                 <div className="heroimage">
+                  { console.log(element) }
                   <AaJumbotron
                     title={element.herotitle}
                     description={element.herodescription}
                     featuredimage={
-                      element.heroimage &&
+                      element.heroimage.childImageSharp &&
                       element.heroimage.childImageSharp.fluid.src
                     }
                     link={element.herolink}
@@ -147,6 +148,7 @@ const BasicPage = ({ data }) => {
         helmet={<Helmet title={`${post.frontmatter.title}`} />}
         title={post.frontmatter.title}
       />
+      {console.log(post.frontmatter)}
     </Layout>
   );
 };
