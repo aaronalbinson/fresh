@@ -43,7 +43,7 @@ export const BasicPageTemplate = ({
                     title={element.herotitle}
                     description={element.herodescription}
                     featuredimage={
-                      element.heroimage.childImageSharp &&
+                      element.heroimage &&
                       element.heroimage.childImageSharp.fluid.src
                     }
                     link={element.herolink}
@@ -148,7 +148,6 @@ const BasicPage = ({ data }) => {
         helmet={<Helmet title={`${post.frontmatter.title}`} />}
         title={post.frontmatter.title}
       />
-      {console.log(post.frontmatter)}
     </Layout>
   );
 };
