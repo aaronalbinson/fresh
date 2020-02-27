@@ -20,7 +20,7 @@ elements:
         judgename: Matt Baxter
     type: judges
   - lightordark: dark
-    paragraph: '# Judges (London)'
+    paragraph: '## Judges (London)'
     type: text
   - judge:
       - judgecompany: ''
