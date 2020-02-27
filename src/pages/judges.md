@@ -6,11 +6,14 @@ elements:
     paragraph: '# Judges'
     type: text
   - judge:
-      - judgename: To be revealed...
+      - judgecompany: 'Taxi Studio, Regional'
+        judgename: Spencer Buck
+      - judgecompany: 'The Chase, Regional'
+        judgename: Ben Casey
     type: judges
   - judge:
-      - judgecompany: ' '
-        judgename: ' '
+      - judgecompany: ' Magpie Studio, London'
+        judgename: 'Ben Christie '
     type: judges
 ---
 
