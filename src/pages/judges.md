@@ -19,11 +19,12 @@ elements:
       - judgecompany: Baxter & Bailey
         judgename: Matt Baxter
     type: judges
-  - paragraph: '# Judges (London)'
+  - lightordark: dark
+    paragraph: '# Judges (London)'
     type: text
   - judge:
-      - judgecompany: Rose
-        judgename: Simon Elliott
+      - judgecompany: ''
+        judgename: To be revealed...
     type: judges
 ---
 
