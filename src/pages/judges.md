@@ -3,17 +3,27 @@ templateKey: basic-page
 title: 2020 Judges
 elements:
   - lightordark: dark
-    paragraph: '# Judges'
+    paragraph: '# Judges (Regional)'
     type: text
   - judge:
-      - judgecompany: 'Taxi Studio, Regional'
+      - judgecompany: Taxi Studio
         judgename: Spencer Buck
-      - judgecompany: 'The Chase, Regional'
+      - judgecompany: The Chase
         judgename: Ben Casey
+      - judgecompany: Elmwood
+        judgename: Helen Hartley
+      - judgecompany: Edit Brand Studio
+        judgename: Karen Hughes
+      - judgecompany: Common Room
+        judgename: Chris Jackson
+      - judgecompany: Baxter & Bailey
+        judgename: Matt Baxter
     type: judges
+  - paragraph: '# Judges (London)'
+    type: text
   - judge:
-      - judgecompany: ' Magpie Studio, London'
-        judgename: 'Ben Christie '
+      - judgecompany: Rose
+        judgename: Simon Elliott
     type: judges
 ---
 
