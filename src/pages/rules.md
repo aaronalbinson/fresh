@@ -56,10 +56,11 @@ elements:
 
 
       All decisions by our juries are final.
-    type: text
-  - lightordark: dark
-    paragraph: '# Replica Trophies'
-    rparagraph: >-
+
+
+      ## Replica Trophies
+
+
       Replica Egg trophies are available in limited numbers per entry. An
       entrant may order a maximum of 1 copy in addition to the original. If the
       entrant wins in several categories, they are entitled to the same number.
