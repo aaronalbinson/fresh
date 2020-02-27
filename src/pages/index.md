@@ -2,7 +2,7 @@
 templateKey: basic-page
 title: Fresh Awards
 elements:
-  - gif: 'blob:https://www.freshawards.co.uk/1719f508-ea13-4479-83d8-2b83562fb093'
+  - gif: 'blob:https://www.freshawards.co.uk/8821799a-c3b9-4e89-951a-94c2aa4352ca'
     heroimage: /img/fresh-awards_blank-canvas.jpg
     type: hero
 ---
