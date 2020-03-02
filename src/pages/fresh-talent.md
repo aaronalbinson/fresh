@@ -30,7 +30,7 @@ elements:
       style. 
 
 
-      Since graduated, Craven has exhibited at globally renowned New Designers,
+      Since graduating, Craven has exhibited at globally renowned New Designers,
       and has collaborated with names such as Brancott Estate, Today At Apple,
       and the Hayward Gallery in London; his recent projects include working
       with BBC’s DIY SOS, and developing his own line of homeware products. 
