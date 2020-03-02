@@ -18,13 +18,25 @@ elements:
         judgename: Chris Jackson
       - judgecompany: Baxter & Bailey
         judgename: Matt Baxter
+      - judgecompany: Pencil Studio
+        judgename: Luke Manning
+      - judgecompany: Music
+        judgename: Adam Rix
     type: judges
   - lightordark: dark
     paragraph: '# Judges (London)'
     type: text
   - judge:
-      - judgecompany: ''
-        judgename: To be revealed...
+      - judgecompany: Rose
+        judgename: Simon Elliott
+      - judgecompany: Magpie
+        judgename: Ben Christie
+      - judgecompany: NB Studio
+        judgename: Nick Finney
+      - judgecompany: Rose
+        judgename: Garry Blackburn
+      - judgecompany: Williams Murray Hamm
+        judgename: Garrick Hamm
     type: judges
 ---
 
