@@ -12,7 +12,7 @@ elements:
       right we give an opportunity to the freshest talent in our industry. Each
       year, the egg acts as a blank canvas for a graduate to provide a unique
       creative approach. This year, recent graduate Benjamin Craven has been
-      commissioned to create the winning eggs.
+      commissioned to create the Fresh 2020 winning eggs.
 
 
       Benjamin graduated from Leeds Arts University with an Honours degree in
