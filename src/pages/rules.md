@@ -72,7 +72,7 @@ elements:
       should be emailed to:
 
 
-      paula@freshawards.co.uk
+      [paula@freshawards.co.uk](paula@freshawards.co.uk)
     type: text
 ---
 
