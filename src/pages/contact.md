@@ -22,7 +22,7 @@ elements:
 
       +44 (0)20 3858 7809  
 
-      [paula@freshawards.co.uk](mailto:awards@freshawards.co.uk)
+      [paula@freshawards.co.uk](mailto:paula@freshawards.co.uk)
 
 
       Please also check out the <a href="http://fresh-adventures.co.uk"
