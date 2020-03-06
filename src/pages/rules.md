@@ -69,10 +69,10 @@ elements:
 
       Once winners are announced online on Tuesday 31 March and Thursday 2
       April, replicas must be ordered by no later than Friday 10 April. Enquires
-      should be emailed to:
+      should be emailed to:\
 
 
-      paula@freshawards.co.uk
+      <mailto:paula@freshawards.co.uk>
     type: text
 ---
 
