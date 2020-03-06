@@ -62,7 +62,7 @@ elements:
       March 2020 and should be emailed to:
 
 
-      [paula@freshawards.co.uk](paula@freshawards.co.uk)
+      paula@freshawards.co.uk
 
 
       – Regional judging will take place on Tuesday 31 March and London judging
