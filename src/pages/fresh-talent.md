@@ -36,9 +36,9 @@ elements:
       with BBC’s DIY SOS, and developing his own line of homeware products. 
 
 
-      View Benjamin Craven’s work at
-      [benjamincraven.co.uk](www.benjamincraven.co.uk) and support one of our
-      industry’s freshest talents.
+      View Benjamin Craven’s work at <a href="http://benjamincraven.co.uk"
+      target="_blank">benjamincraven.co.uk</a> and support one of our industry’s
+      freshest talents.
     type: text
 ---
 
