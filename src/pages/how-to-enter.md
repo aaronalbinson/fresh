@@ -95,9 +95,9 @@ elements:
       <mailto:paula@freshawards.co.uk>
 
 
-      – Due to CORVID-19, dates for Regional and London judging are TBA as well
-      as the date for live announcements of this years winners. We will of
-      course keep you informed on developments.
+      – Dates for Regional and London judging are TBA, as well as the date for
+      live announcements of this years winners. We will of course keep you
+      informed on developments.
 
 
       – Each submission is £100 + VAT and if you pay for five entries, you get
