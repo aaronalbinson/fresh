@@ -33,7 +33,8 @@ elements:
 
       All Best Wishes & Stay Safe
     type: text
-  - paragraph: '# How To Enter'
+  - lightordark: dark
+    paragraph: '# How To Enter'
     rparagraph: >-
       We’re keeping it simple, and going a little green here at Fresh, and will
       be asking for online entries only in a PDF format. If you have a physical
@@ -88,8 +89,8 @@ elements:
       delay of up to a couple of days to respond.
 
 
-      – All entries need to be submitted at the very latest by 6pm on Friday 20
-      March 2020 and should be emailed to:
+      – All entries need to be submitted at the very latest by 6pm on Thursday 9
+      April 2020 and should be emailed to:
 
 
       <mailto:paula@freshawards.co.uk>
