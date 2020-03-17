@@ -31,12 +31,14 @@ elements:
         judgename: Simon Elliott
       - judgecompany: Magpie
         judgename: Ben Christie
+      - judgecompany: Sarah Boris Studio
+        judgename: Sarah Boris
       - judgecompany: NB Studio
         judgename: Nick Finney
-      - judgecompany: Rose
-        judgename: Garry Blackburn
       - judgecompany: Williams Murray Hamm
         judgename: Garrick Hamm
+      - judgecompany: Rose
+        judgename: Garry Blackburn
     type: judges
 ---
 
