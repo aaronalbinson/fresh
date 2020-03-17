@@ -3,7 +3,37 @@ templateKey: basic-page
 title: How To Enter
 elements:
   - lightordark: dark
-    paragraph: '# How To Enter'
+    paragraph: '# Deadline Extension'
+    rparagraph: >-
+      Sincere thanks to everyone who has entered the Fresh Awards to date (and
+      we salute all of our early birds) but we have made the decision to push
+      back the deadline to the day before the Easter break, Thursday 9 April
+      2020.
+
+
+      Judging was set to take place during week commencing 30 March in both
+      London and Leeds, but given the issues surrounding the coronavirus
+      outbreak, we have decided to postpone our plans and we will review again
+      in due course - and keep you posted. 
+
+
+      This decision was made in consultation with our two great juries (Regional
+      & London) and whilst we have considered judging online and remotely,
+      nothing beats a good face to face debate. Ultimately, we may have no
+      choice but to adopt this route, but we thought it sensible for now to
+      delay. The good news is that anyone panicking about entering has much
+      longer to get their work sorted. 
+
+
+      Our fabulous trophies are all sorted and ready to go, so we are not
+      cancelling Fresh, just delaying the programme whilst closely monitoring
+      the ongoing situation. Details about the winners announcements, will be
+      confirmed in due course.
+
+
+      All Best Wishes & Stay Safe
+    type: text
+  - paragraph: '# How To Enter'
     rparagraph: >-
       We’re keeping it simple, and going a little green here at Fresh, and will
       be asking for online entries only in a PDF format. If you have a physical
@@ -62,12 +92,12 @@ elements:
       March 2020 and should be emailed to:
 
 
-      [paula@freshawards.co.uk](mailto:paula@freshawards.co.uk)
+      <mailto:paula@freshawards.co.uk>
 
 
-      – Regional judging will take place on Tuesday 31 March and London judging
-      will take place on Thursday 2 April. Winners will be announced on Thursday
-      9 April, live from our website.
+      – Due to CORVID-19, dates for Regional and London judging are TBA as well
+      as the date for live announcements of this years winners. We will of
+      course keep you informed on developments.
 
 
       – Each submission is £100 + VAT and if you pay for five entries, you get
