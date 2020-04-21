@@ -7,8 +7,7 @@ elements:
     rparagraph: >-
       Sincere thanks to everyone who has entered the Fresh Awards to date (and
       we salute all of our early birds) but we have made the decision to push
-      back the deadline to the day before the Easter break, Thursday 9 April
-      2020.
+      back the deadline to Thursday 23 April 2020.
 
 
       Judging was set to take place during week commencing 30 March in both
@@ -89,8 +88,8 @@ elements:
       delay of up to a couple of days to respond.
 
 
-      – All entries need to be submitted at the very latest by 6pm on Thursday 9
-      April 2020 and should be emailed to:
+      – All entries need to be submitted at the very latest by 6pm on Thursday
+      23 April 2020 and should be emailed to:
 
 
       <mailto:paula@freshawards.co.uk>
