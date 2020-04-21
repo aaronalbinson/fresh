@@ -95,9 +95,8 @@ elements:
       <mailto:paula@freshawards.co.uk>
 
 
-      – Dates for Regional and London judging are TBA, as well as the date for
-      live announcements of this years winners. We will of course keep you
-      informed on developments.
+      – Announcements for this years winners will be held online via  our
+      website on Friday 8 May 2020. 
 
 
       – Each submission is £100 + VAT and if you pay for five entries, you get
