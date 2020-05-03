@@ -3,9 +3,11 @@ templateKey: basic-page
 title: Fresh 2020 Results
 elements:
   - lightordark: dark
-    paragraph: '![](/img/screen-shot-2020-05-03-at-20.32.16.png "Packaging – Gold")'
-    rparagraph: |-
+    paragraph: |-
+      ![](/img/screen-shot-2020-05-03-at-20.32.16.png "Packaging – Gold")
+
       # Packaging
+
       ## Gold
 
       **Our Type of Food**\
@@ -16,6 +18,7 @@ elements:
       **Designer:** Claire Parsons Brown, Emma Jeffery\
       **Copywriting:** Maf Bishop and Blast\
       **Project manager:** Michelle Johnson
+    rparagraph: ''
     type: text
   - lightordark: dark
     paragraph: '![](/img/screen-shot-2020-05-03-at-20.38.01.png "Packaging – Gold")'
