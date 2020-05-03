@@ -16,9 +16,6 @@ elements:
       ## Gold
 
 
-      ****
-
-
       **Our Type of Food**\
 
       **The Click Design Consultants**
