@@ -16,9 +16,9 @@ elements:
 
       ## Gold
 
+      ****
 
-
-      ## **Our Type of Food**\
+      **Our Type of Food**\
       **The Click Design Consultants**
 
       **Creative Director:** Paul Tunnicliffe, Colin Gifford\
