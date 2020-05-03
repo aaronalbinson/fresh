@@ -30,7 +30,7 @@ elements:
       **Copywriting:** Maf Bishop and Blast\
 
       **Project manager:** Michelle Johnson
-    rparagraph: '****'
+    rparagraph: ''
     type: text
 ---
 
