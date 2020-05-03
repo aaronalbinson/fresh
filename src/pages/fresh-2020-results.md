@@ -14,7 +14,7 @@ elements:
 
       Creative Director: Paul Tunnicliffe, Colin Gifford\
       Lead Designer: David Marsh\
-      Designers: Claire Parsons Brown, Emma Jeffery\
+      Designer: Claire Parsons Brown, Emma Jeffery\
       Copywriting: Maf Bishop and Blast\
       Project manager: Michelle Johnson
     type: text
@@ -30,7 +30,7 @@ elements:
 
       Creative Director: Paul Tunnicliffe, Colin Gifford\
       Lead Designer: David Marsh\
-      Designers: Claire Parsons Brown, Emma Jeffery\
+      Designer: Claire Parsons Brown, Emma Jeffery\
       Copywriting: Maf Bishop and Blast\
       Project manager: Michelle Johnson
     type: text
@@ -46,7 +46,7 @@ elements:
 
       Creative Director: Paul Tunnicliffe, Colin Gifford\
       Lead Designer: David Marsh\
-      Designers: Claire Parsons Brown, Emma Jeffery\
+      Designer: Claire Parsons Brown, Emma Jeffery\
       Copywriting: Maf Bishop and Blast\
       Project manager: Michelle Johnson
     type: text
@@ -64,7 +64,7 @@ elements:
 
       Creative Director: Paul Tunnicliffe, Colin Gifford\
       Lead Designer: David Marsh\
-      Designers: Claire Parsons Brown, Emma Jeffery\
+      Designer: Claire Parsons Brown, Emma Jeffery\
       Copywriting: Maf Bishop and Blast\
       Project manager: Michelle Johnson
     type: text
