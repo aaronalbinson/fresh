@@ -57,7 +57,7 @@ elements:
     rparagraph: |-
       # Gold
 
-      ## Packaging
+      ## Branding
 
       Brigade Court\
       Jack Renwick Studio
