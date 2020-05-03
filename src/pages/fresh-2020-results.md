@@ -3,10 +3,12 @@ templateKey: basic-page
 title: Fresh 2020 Results
 elements:
   - lightordark: dark
-    paragraph: |-
+    paragraph: >-
       # 
 
-      ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
+
+      ![](/img/screen-shot-2020-05-03-at-20.32.16.png "Our Type of Food – The
+      Click Design Consultants")
     rparagraph: |-
       # Packaging
 
