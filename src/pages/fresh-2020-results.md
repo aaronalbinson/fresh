@@ -5,8 +5,7 @@ elements:
   - lightordark: dark
     paragraph: '![](/img/screen-shot-2020-05-03-at-20.32.16.png "Packaging – Gold")'
     rparagraph: |-
-      ## Packaging\
-      Gold
+      ## Packaging – Gold
 
       Our Type of Food\
       The Click Design Consultants
