@@ -4,7 +4,7 @@ title: Results
 elements:
   - lightordark: dark
     paragraph: |-
-      # Fresh 2020
+      # Fresh Awards 2020
 
       ## Winners
     rparagraph: |-
