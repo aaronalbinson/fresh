@@ -6,10 +6,6 @@ elements:
     paragraph: |-
       ![](/img/01_our-type-of-food.jpg)
 
-      # Packaging
-
-      ## Gold
-    rparagraph: |-
       **Our Type of Food**\
       **The Click Design Consultants**
 
@@ -18,6 +14,7 @@ elements:
       **Designer:** Claire Parsons Brown, Emma Jeffery\
       **Copywriting:** Maf Bishop and Blast\
       **Project manager:** Michelle Johnson
+    rparagraph: ''
     type: text
   - lightordark: dark
     paragraph: |-
