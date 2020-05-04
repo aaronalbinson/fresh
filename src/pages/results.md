@@ -4,34 +4,23 @@ title: Results
 elements:
   - lightordark: dark
     paragraph: |-
-      # Packaging
+      # Fresh 2020 
 
-      ## Gold
-    rparagraph: >-
+      ## Winners
+    rparagraph: 'Without further ado, here are the winners of Fresh 2020.'
+    type: text
+  - paragraph: |-
       ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
 
+      # Packaging 
 
-      ****
-
-
-      **Our Type of Food**\
-
-      **The Click Design Consultants**
-
-
-      **Creative Director:** Bobby Burrage\
-
-      **Designer:** Bobby Burrage, Jordan Blyth\
-
-      **Photography:** Fiona Burrage\
-
-      **Brand Film:** Fiona Burrage, Donovan Jones, David Stafford\
-
-      **Client:** Minnie Moll, John Adams, Janice Quilter, Judith Finney
-      (Jarrold Retail) \
-
-      **Consultants:** Annette Peters, Harriet Aitken (The Food Practice)
-      Geoffrey Woodward (Label Apeel)
+      ## Gold
+    rparagraph: |-
+      **Creative Director:** Paul Tunnicliffe, Colin Gifford\
+      **Lead Designer:** David Marsh\
+      **Designer:** Claire Parsons Brown, Emma Jeffery\
+      **Copywriting:** Maf Bishop and Blast\
+      **Project manager:** Michelle Johnson
     type: text
 ---
 
