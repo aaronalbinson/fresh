@@ -16,9 +16,9 @@ elements:
     type: text
   - lightordark: dark
     paragraph: |-
-      ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
+      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
 
-      # Packaging 
+      # Packaging
 
       ## Gold
     rparagraph: |-
