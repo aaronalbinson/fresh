@@ -24,19 +24,18 @@ elements:
 
       ## 
 
-      **Packaging**\
-      **GOLD**
-
       ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
 
-      **The Bletchley Park Gin**\
-      **Rose**
+      **Packaging GOLD**
 
-      **Creative Director:** Paul Tunnicliffe, Colin Gifford\
-      **Lead Designer:** David Marsh\
-      **Designer:** Claire Parsons Brown, Emma Jeffery\
-      **Copywriting:** Maf Bishop and Blast\
-      **Project manager:** Michelle Johnson
+      The Bletchley Park Gin\
+      Rose
+
+      Creative Director: Paul Tunnicliffe, Colin Gifford\
+      Lead Designer: David Marsh\
+      Designer: Claire Parsons Brown, Emma Jeffery\
+      Copywriting: Maf Bishop and Blast\
+      Project manager: Michelle Johnson
     type: text
   - lightordark: dark
     paragraph: |-
