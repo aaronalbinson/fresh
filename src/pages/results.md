@@ -4,13 +4,13 @@ title: Results
 elements:
   - lightordark: dark
     paragraph: |-
-      # Fresh 2020 
+      # Fresh 2020
 
       ## Winners
     rparagraph: |-
-      ## Packaging – Gold
-
       ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
+
+      ## Packaging | Gold
 
       **Creative Director:** Paul Tunnicliffe, Colin Gifford\
       **Lead Designer:** David Marsh\
@@ -18,9 +18,9 @@ elements:
       **Copywriting:** Maf Bishop and Blast\
       **Project manager:** Michelle Johnson
 
-      ## Packaging – Gold
-
       ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
+
+      ## Packaging | Gold
 
       **Creative Director:** Paul Tunnicliffe, Colin Gifford\
       **Lead Designer:** David Marsh\
