@@ -4,7 +4,7 @@ title: Fresh 2020 Results
 elements:
   - lightordark: dark
     paragraph: |-
-      ![](/img/01_our-type-of-food_ext.png)
+      ![](/img/01_our-type-of-food_ext.jpg)
 
       **Our Type of Food**\
       **The Click Design Consultants**
