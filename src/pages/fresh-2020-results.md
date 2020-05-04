@@ -19,5 +19,22 @@ elements:
       **Copywriting:** Maf Bishop and Blast\
       **Project manager:** Michelle Johnson
     type: text
+  - lightordark: dark
+    paragraph: |-
+      ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
+
+      # Packaging
+
+      ## Gold
+    rparagraph: |-
+      **The Bletchley Park Gin**\
+      **Rose**
+
+      **Creative Director:** Garry Blackburn, Simon Elliott\
+      **Designer:** Yafet Bisrat\
+      **Photography:** Jonathan Knowles\
+      **Project Manager:** Joanna Waclawski\
+      **Client:** Bletchley Park
+    type: text
 ---
 
