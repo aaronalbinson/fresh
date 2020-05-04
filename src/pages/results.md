@@ -6,6 +6,8 @@ elements:
     paragraph: |-
       # Fresh 2020 Winners
 
+
+
       ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
 
       # Packaging
