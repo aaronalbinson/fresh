@@ -24,7 +24,7 @@ elements:
 
       Lead Designer: David Marsh\
 
-      Designer: Claire Parsons Brown, Emma Jeffert\
+      Designer: Claire Parsons Brown, Emma Jeffery\
 
       Copywriting: Maf Bishop and Blast\
 
@@ -49,7 +49,7 @@ elements:
 
       Lead Designer: David Marsh\
 
-      Designer: Claire Parsons Brown, Emma Jeffert\
+      Designer: Claire Parsons Brown, Emma Jeffery\
 
       Copywriting: Maf Bishop and Blast\
 
