@@ -7,9 +7,15 @@ elements:
       # Fresh 2020 
 
       ## Winners
-    rparagraph: 'Without further ado, here are the winners of Fresh 2020.'
+    rparagraph: >-
+      Sincere thanks to everyone who has entered the Fresh Awards 2020. As you
+      are aware, our panel of industry experts virtually joined forces to judge
+      who has been setting the bar for great design this year and despite the
+      current circumstances, the quality of work has been second to none. So
+      without further ado, here are the results...
     type: text
-  - paragraph: |-
+  - lightordark: dark
+    paragraph: |-
       ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
 
       # Packaging 
