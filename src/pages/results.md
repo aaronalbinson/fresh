@@ -4,12 +4,8 @@ title: Results
 elements:
   - lightordark: dark
     paragraph: |-
-      # Fresh 2020 
+      # Fresh 2020 Winners
 
-      ## Winners
-    type: text
-  - lightordark: dark
-    paragraph: |-
       ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
 
       # Packaging
