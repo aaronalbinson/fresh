@@ -4,16 +4,16 @@ title: Results
 elements:
   - lightordark: dark
     paragraph: |-
-      # Fresh 2020 Winners
-
-
-
-      ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
-
       # Packaging
 
       ## Gold
     rparagraph: >-
+      ![](/img/screen-shot-2020-05-03-at-20.32.16.png)
+
+
+      ****
+
+
       **Our Type of Food**\
 
       **The Click Design Consultants**
