@@ -4,7 +4,7 @@ title: Fresh 2020 Results
 elements:
   - lightordark: dark
     paragraph: |-
-      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
+      ![](/img/01_our-type-of-food.jpg)
 
       # Packaging
 
