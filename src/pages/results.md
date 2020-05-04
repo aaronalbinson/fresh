@@ -1,6 +1,6 @@
 ---
 templateKey: basic-page
-title: Results
+title: Fresh Awards 2020
 elements:
   - lightordark: dark
     paragraph: |-
