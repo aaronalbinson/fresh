@@ -36,19 +36,5 @@ elements:
       Copywriting: Maf Bishop and Blast\
       Project manager: Michelle Johnson
     type: text
-  - lightordark: dark
-    paragraph: |-
-      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
-
-      # Packaging
-
-      ## Gold
-    rparagraph: |-
-      **Creative Director:** Paul Tunnicliffe, Colin Gifford\
-      **Lead Designer:** David Marsh\
-      **Designer:** Claire Parsons Brown, Emma Jeffery\
-      **Copywriting:** Maf Bishop and Blast\
-      **Project manager:** Michelle Johnson
-    type: text
 ---
 
