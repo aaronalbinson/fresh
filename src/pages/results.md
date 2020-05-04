@@ -8,7 +8,7 @@ elements:
 
       ## Winners
     rparagraph: |-
-      **Packaging **\
+      **Packaging**\
       **GOLD**
 
       ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
