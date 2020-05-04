@@ -8,9 +8,11 @@ elements:
 
       ## Winners
     rparagraph: |-
-      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
+      ## Packaging 
 
-      ## Packaging | Gold
+      ## Gold
+
+      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
 
       **Our Type of Food**\
       **The Click Design Consultants**
@@ -21,9 +23,11 @@ elements:
       **Copywriting:** Maf Bishop and Blast\
       **Project manager:** Michelle Johnson
 
-      ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
+      ## Packaging 
 
-      ## Packaging | Gold
+      ## Gold
+
+      ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
 
       **The Bletchley Park Gin**\
       **Rose**
