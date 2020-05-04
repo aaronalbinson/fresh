@@ -36,5 +36,19 @@ elements:
       **Project Manager:** Joanna Waclawski\
       **Client:** Bletchley Park
     type: text
+  - lightordark: dark
+    paragraph: |-
+      ![](/img/03_blessed-be-thy-drinks.png)
+
+      # Packaging
+
+      ## Silver
+    rparagraph: |-
+      **Blessed be Thy Drinks**\
+      **Pencil Studio**
+
+      **Creative Director:** Luke Manning\
+      **Illustrator:** Luke Manning
+    type: text
 ---
 
