@@ -8,12 +8,13 @@ elements:
 
       ## Winners
     rparagraph: |-
-      ## Packaging | Gold
+      **Packaging **\
+      **GOLD**
+
+      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
 
       **Our Type of Food**\
       **The Click Design Consultants**
-
-      ![](/img/screen-shot-2020-05-04-at-12.56.07.png)
 
       **Creative Director:** Paul Tunnicliffe, Colin Gifford\
       **Lead Designer:** David Marsh\
@@ -21,12 +22,15 @@ elements:
       **Copywriting:** Maf Bishop and Blast\
       **Project manager:** Michelle Johnson
 
-      ## Packaging | Gold
+      ## 
+
+      **Packaging**\
+      **GOLD**
+
+      ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
 
       **The Bletchley Park Gin**\
       **Rose**
-
-      ![](/img/screen-shot-2020-05-04-at-12.56.17.png)
 
       **Creative Director:** Paul Tunnicliffe, Colin Gifford\
       **Lead Designer:** David Marsh\
