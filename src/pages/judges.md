@@ -3,7 +3,7 @@ templateKey: basic-page
 title: 2020 Judges
 elements:
   - lightordark: dark
-    paragraph: '# Judges (Regional)'
+    paragraph: '# 2020 Judges'
     type: text
   - judge:
       - judgecompany: Taxi Studio
@@ -22,14 +22,9 @@ elements:
         judgename: Luke Manning
       - judgecompany: Music
         judgename: Adam Rix
-    type: judges
-  - lightordark: dark
-    paragraph: '# Judges (London)'
-    type: text
-  - judge:
       - judgecompany: Rose
         judgename: Simon Elliott
-      - judgecompany: Magpie
+      - judgecompany: Magpie Studio
         judgename: Ben Christie
       - judgecompany: Sarah Boris Studio
         judgename: Sarah Boris
