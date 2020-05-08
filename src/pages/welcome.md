@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Welcome
 elements:
   - lightordark: dark
-    paragraph: '# Welcome to Fresh'
+    paragraph: '# Welcome to Fresh Awards'
     rparagraph: >-
       One of the iconic strengths of Fresh being independent and run for passion
       not profit, is that it is always looking at new ways to ensure that strong
