@@ -74,7 +74,8 @@ elements:
 
       Project Manager: Joanna Waclawski \
 
-      Client: 10bet \
+      Client: 10bet <a href="http://10bet.co.uk"
+      target="_blank">(10bet.co.uk)</a>\
 
       CMO: Roy Meckenzie \
 
