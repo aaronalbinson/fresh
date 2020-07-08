@@ -29,15 +29,15 @@ elements:
       industry.
 
 
-      So Rose helped 10bet define a refreshingly simple strategic approach. One
-      which aims to put the needs of their audience - the bettor - before the
-      bookie. As a result, their visual and verbal language has been reinvented
-      to give 10bet much needed differentiation within the market, supporting
-      their new positioning – ‘For the bettor’ – by making the customer
-      experience quicker, easier, more intuitive and more enjoyable, as well as
-      increasing recognition and relevance through the special relationship the
-      sports world has with the number 10. This is where our judges got really
-      excited!
+      So Rose helped <a href="http://10bet.co.uk" target="_blank">10bet</a>
+      define a refreshingly simple strategic approach. One which aims to put the
+      needs of their audience - the bettor - before the bookie. As a result,
+      their visual and verbal language has been reinvented to give 10bet much
+      needed differentiation within the market, supporting their new positioning
+      – ‘For the bettor’ – by making the customer experience quicker, easier,
+      more intuitive and more enjoyable, as well as increasing recognition and
+      relevance through the special relationship the sports world has with the
+      number 10. This is where our judges got really excited!
 
 
       10bet launched their new brand with a campaign at ICE, the major annual
