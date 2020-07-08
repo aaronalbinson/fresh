@@ -24,7 +24,7 @@ elements:
       also appears to draw on the same visual language, vocabulary and
       promotional offers. Library photography of sports stars is used almost
       across the board, resulting in poorly executed montages, where faces,
-      badges and sponsors logos require extensive retouching to fulfill the
+      badges and sponsors logos require extensive retouching to fulfil the
       increased regulatory controls and governance within the UK gaming
       industry.
 
