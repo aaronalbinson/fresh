@@ -2,6 +2,6 @@
 templateKey: menu
 title: Contact
 menupath: /contact
-menuorder: 6
+menuorder: 5
 ---
 
