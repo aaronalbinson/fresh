@@ -11,12 +11,9 @@ elements:
       has originated from.
 
 
-      For Fresh 2020, we’re taking a step forward to address the balance between
-      the regions and London. We will have two juries – one outside of the M25
-      to judge the work originating from London, and one in London responsible
-      for awarding the regional work, and only the very best will emerge with
-      one of our beautiful coveted eggs. How Fresh is your creativity? Let the
-      battle commence…
+      For 2021, we're working alongside The Shark Awards, and only the very best
+      will emerge with one of our beautiful coveted trophies. How Fresh is your
+      creativity? Let the battle commence…
     type: text
 ---
 
